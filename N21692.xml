@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:028540_0000_0FD939E45508C400"/>
-            <pb facs="tcp:028540_0001_0FD939E8CD3DA218"/>
+            <pb facs="unknown:028540_0000_0FD939E45508C400"/>
+            <pb facs="unknown:028540_0001_0FD939E8CD3DA218"/>
             <p>
                <figure/>
             </p>
@@ -126,7 +126,8 @@
             <l>And ſo you'll ſay when once you've read it o'er.</l>
          </div>
          <div type="title_page">
-            <pb facs="tcp:028540_0002_0FD939EB5DAEF7F0" rendition="simple:additions"/>
+            <pb facs="unknown:028540_0002_0FD939EB5DAEF7F0"
+                rendition="simple:additions"/>
             <p>HOCUS POCUS; OR THE WHOLE ART OF LEGERDEMAIN IN PERFECTION.</p>
             <p>By which the meaneſt capacity may perform the whole without the help of a teacher.</p>
             <p>Together with the Uſe of all the <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -140,7 +141,7 @@
             <p>1795.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:028540_0003_0FD8C039A78FAF80"/>
+            <pb facs="unknown:028540_0003_0FD8C039A78FAF80"/>
             <head>THE PREFACE TO THE READER.</head>
             <opener>
                <salute>KIND READER,</salute>
@@ -155,7 +156,7 @@
       <body>
          <div type="text">
             <pb n="3"
-                facs="tcp:028540_0004_0FD939ED97E4ED98"
+                facs="unknown:028540_0004_0FD939ED97E4ED98"
                 rendition="simple:additions"/>
             <head>The Whole ART of LEGERDEMAIN; OR, HOCUS POCUS IN PERFECTION, &amp;c.</head>
             <p>LEgerdemain is an operation whereby one may ſeem to work wonderful, im<g ref="char:EOLhyphen"/>poſſible, and incredible things, by agility, nimbleneſs, and ſlight of hand. The parts of this ingenious art, are principally four.</p>
@@ -170,7 +171,7 @@
                <p n="3">3. And laſtly, He muſt uſe ſuch geſtures of body, as may take off the ſpectators eyes from a ſtrict and diligent beholding his manner of performance.</p>
             </div>
             <div type="part">
-               <pb n="4" facs="tcp:028540_0005_0FD939EED4D01C18"/>
+               <pb n="4" facs="unknown:028540_0005_0FD939EED4D01C18"/>
                <head>How to paſs the Balls through the Cups.</head>
                <p>You muſt place yourſelf at the farther end of the table, and then you muſt provide your<g ref="char:EOLhyphen"/>ſelf three cups, made of tin, and then you muſt have your black ſticks of magic to ſhew your wonders withal; then you muſt pro<g ref="char:EOLhyphen"/>vide four ſmall cork balls to play with; but do not let more than three of them be ſeen upon the table.</p>
                <p>Note. Always conceal one ball in the right hand, between your middle finger and ring finger: and be ſure make yourſelf per<g ref="char:EOLhyphen"/>fect to hold it there, for, by this means, all the tricks of the cups are done.</p>
@@ -193,7 +194,7 @@
                      <l>The firſt trick that e'er I learn'd to do,</l>
                      <l>Was, out of one ball to make it into two</l>
                      <l>
-                        <pb n="5" facs="tcp:028540_0006_0FD939F42CC1AC10"/>Ah! ſince it cannot better be,</l>
+                        <pb n="5" facs="unknown:028540_0006_0FD939F42CC1AC10"/>Ah! ſince it cannot better be,</l>
                      <l>One of theſe two, I'll divide them into three,</l>
                      <l>Which is call'd the firſt trick of dexterity.</l>
                   </q>
@@ -207,20 +208,20 @@
                </p>
                <figure/>
                <p>
-                  <pb n="6" facs="tcp:028540_0007_0FD939F6C43C80D0"/>Then taking the ſecond cup up, ſay, Gen<g ref="char:EOLhyphen"/>tlemen, you ſee there is nothing under my cup; ſo clap the ball that you have in your right hand under it, and then take the ſe<g ref="char:EOLhyphen"/>cond ball up with your right hand, and ſeem to put it into your left, but retain it in your right hand, ſhutting your left in due time, as before, ſaying, <hi>Verda, be gone.</hi>
+                  <pb n="6" facs="unknown:028540_0007_0FD939F6C43C80D0"/>Then taking the ſecond cup up, ſay, Gen<g ref="char:EOLhyphen"/>tlemen, you ſee there is nothing under my cup; ſo clap the ball that you have in your right hand under it, and then take the ſe<g ref="char:EOLhyphen"/>cond ball up with your right hand, and ſeem to put it into your left, but retain it in your right hand, ſhutting your left in due time, as before, ſaying, <hi>Verda, be gone.</hi>
                </p>
                <figure/>
                <p>Then take the third cup, ſaying, Gentle<g ref="char:EOLhyphen"/>men, you ſee there is nothing under my laſt cup; then clapping the ball you have in your right hand under it, then take the third ball up with your right hand, and ſeeming to put it into your left hand, but retain it in your right; ſhutting your left hand in due time, as before, ſaying, <hi>Preſto, make haſte;</hi> ſo you have your three balls come under your three cups, as thus: and ſo lay your three cups down on the table.</p>
                <figure/>
                <p>Then with your right hand take up the firſt cup, and there clap that ball under, that you have in your right hand; then ſaying,
-<pb n="7" facs="tcp:028540_0008_0FD939F9529AD528"/>
+<pb n="7" facs="unknown:028540_0008_0FD939F9529AD528"/>
 Gentlemen, this being the firſt ball, I will put it into my pocket; but that you muſt ſtill keep in your hand to play withal.</p>
                <figure/>
                <p>So take up the ſecond cup with your right hand, and clap that ball you have concealed under it, and then take up the ſecond ball with your right hand, and ſay, this likewiſe, I take and put into my pocket.</p>
                <figure/>
                <figure/>
                <p>
-                  <pb n="8" facs="tcp:028540_0009_0FD939FADBD49688"/>So lay them all along upon the table to the admiration of all the beholders.</p>
+                  <pb n="8" facs="unknown:028540_0009_0FD939FADBD49688"/>So lay them all along upon the table to the admiration of all the beholders.</p>
                <p>Then take up the firſt cup, and clap the ball you have in your right hand under it, then taking the firſt ball up with your right hand, ſeem to put the ſame into your left hand, but retain it ſtill in your right, then ſay, <hi>Vade, quick be gone when I bid you, and run under the cup.</hi>
                </p>
                <figure/>
@@ -231,7 +232,7 @@ Gentlemen, this being the firſt ball, I will put it into my pocket; but that yo
                <figure/>
                <p>So taking the ſame cup again, then clap<g ref="char:EOLhyphen"/>ping the ball under again, as before, then taking the third ball in your right hand, and ſeem to put it under your left, but ſtill
 <pb n="9"
-                      facs="tcp:028540_0010_0FD939FE5B066948"
+                      facs="unknown:028540_0010_0FD939FE5B066948"
                       rendition="simple:additions"/>
 retain it in your right, then with your left hand ſeem to fling it in the cup, and it will appear thus; all the three balls to be under one cup.</p>
                <figure/>
@@ -243,20 +244,20 @@ retain it in your right, then with your left hand ſeem to fling it in the cup, 
                </head>
                <p>This is the magic lanthorn that has made ſo much wonder in the world, and that which Friar Bacon uſed to ſhew all his ma<g ref="char:EOLhyphen"/>gical wonders withal.</p>
                <p>This lanthorn is called magic, with re<g ref="char:EOLhyphen"/>ſpect to the formidable apparitions that by virtue of light it ſhews upon the white wall of a dark room. The body of it is general<g ref="char:EOLhyphen"/>ly
-<pb n="10" facs="tcp:028540_0011_0FD939FFF9B07690"/>
+<pb n="10" facs="unknown:028540_0011_0FD939FFF9B07690"/>
 made of tin, and of a ſhape of the lamp; towards the back part, is a concave looking glaſs of metal, which may either be ſphe<g ref="char:EOLhyphen"/>rical or parabolical, and which, by a grove made in the bottom of the lanthorn, may either be advanced nearer or put farther back from the lamp, in which is oil or ſpi<g ref="char:EOLhyphen"/>rit of wine, and the match ought to be a little thick, that when it is lighted, it may caſt a good light that may eaſily reflect from the glaſs to the fore part of the lanthorn, where there is an <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>e with the perſpective in it, compoſed of two glaſſes that make the rays converge and magnify the object.</p>
                <p>When you mean to make uſe of this ad<g ref="char:EOLhyphen"/>mirable machine, light the lamp, the light of which will be much augmented by the look<g ref="char:EOLhyphen"/>ing glaſs at a reaſonable diſtance. Between the fore part of the lanthorn, and the per<g ref="char:EOLhyphen"/>ſpective glaſs, you have a trough, made on purpoſe, in which you are to run a long, flat thin frame with different figures, painted with tranſparent colours upon glaſs; then all theſe little figures paſſing ſucceſſively before the perſpective glaſs, thro' which paſſes the light of the lamp, will be painted, and repre<g ref="char:EOLhyphen"/>ſented with the ſame colours upon the wall of a darkroom, in a gigantic and monſtrous manner.</p>
                <p>By this Lanthorn you may ſhew what man, or woman, or birds, or beaſts, and all ſorts of fiſh that are in the ſea: ſo if any gentleman
-<pb n="11" facs="tcp:028540_0012_0FD93A0198176B60"/>
+<pb n="11" facs="unknown:028540_0012_0FD93A0198176B60"/>
 has a deſire to, furniſh themſelves with one of theſe lanthorns, I have the beſt that can be made.</p>
                <figure/>
             </div>
             <div type="part">
                <head>To ſeem to ſwallow a long pudding made of tin.</head>
                <p>This pudding muſt be made of tin, con<g ref="char:EOLhyphen"/>ſiſting of twelve or thirteen little hoops made as in the figure following, ſo as they may almoſt ſeem to fall one through ano<g ref="char:EOLhyphen"/>ther, having little holes made at the biggeſt end thereof, that it may not hurt your mouth, hold this pudding (for ſo it is called) privately in your left hand, with the hole end uppermoſt, and with your right hand take a
-<pb n="12" facs="tcp:028540_0013_0FD93A0502F990F0"/>
+<pb n="12" facs="unknown:028540_0013_0FD93A0502F990F0"/>
 ball out of your pocket, and ſay, 'If here is ever a maid, that has loſt her maidenhead or an old woman that is out of conceit with herſelf, becauſe her neighbours deem her not ſo young as ſhe would be, let them come to me, for this ball is a preſent remedy:' then ſeem to put the ball into your left hand, but let it ſlip into your lap, and clap your pudding into your mouth, which will be thought to be the ball that you ſhewed them; then decline your head, and open your mouth, and the pudding will ſlip down at its full length, which with your right hand you may ſtrike it into your mouth again, doing this three or four times, then you may diſ<g ref="char:EOLhyphen"/>charge it into your hand, and clap it into your pocket without any ſuſpiciou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> by mak<g ref="char:EOLhyphen"/>ing three or four wry faces after it, as tho' it ſtuck in your throat, and if you practiſe ſmiting eaſily upon your throat with your fiſt on each ſide, the pudding will ſeem to chink <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -269,7 +270,7 @@ ball out of your pocket, and ſay, 'If here is ever a maid, that has loſt her m
             <div type="part">
                <head>To ſeem to eat knives and forks.</head>
                <p>Deſire any one of the ſpectators to lend you a knife, which when you get hold of, ſo
-<pb n="13" facs="tcp:028540_0014_0FD93A09039F1020"/>
+<pb n="13" facs="unknown:028540_0014_0FD93A09039F1020"/>
 that you may cover the whole with both hands, the end of the haſt except<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -284,14 +285,14 @@ that you may cover the whole with both hands, the end of the haſt except<gap re
                <head>To put a lock upon a man's mouth.</head>
                <p>You muſt have a lock made for this pur<g ref="char:EOLhyphen"/>poſe, according to the figure; one ſide of its bow muſt be immovable, as that marked with A, the other ſide is noted with B, and muſt be pinned to the body of the lock, as appears at E, I ſay it muſt be pinned that it may play to and fro with eaſe; this ſide of the bow muſt have a leg as at C, and then turn it into the lock; this leg muſt have two
 <pb n="14"
-                      facs="tcp:028540_0015_0FD93A0A7ABB4B28"
+                      facs="unknown:028540_0015_0FD93A0A7ABB4B28"
                       rendition="simple:additions"/>
 notches filled in the inner ſide, which muſt be ſo ordered, that one may lock or hold the two ſides of the bow as cloſe together as may be, and the other notch to hold the ſaid part of the bow a proportionable diſtance aſunder, that, being locked upon the check, it may nei<g ref="char:EOLhyphen"/>ther pinch too hard, nor yet hold it ſo ſlight that it may be drawn off; let there be a key fixed to it, to unlock it, as you ſee at D, and laſtly, let the bow have divers notches filled in it, ſo that the place of the partition, when the lock is ſhut home, will the leaſt of all be ſuſpected in the uſe of the lock; you muſt get one to hold a teſter edge long between his teeth, then take another teſter, and with your left hand proffer to ſet it edge-ways be<g ref="char:EOLhyphen"/>tween a ſecond man's teeth, pretending that your intent is to turn both into which of their mouths they ſhall deſire, by virtue of your words: which he ſhall no ſooner con<g ref="char:EOLhyphen"/>ſent to do, but you, by holding your lock privately in your right hand, with your fore-finger may ſlip it over his cheek, and lock it by preſſing your fore-finger a little down, after ſome ſtore of words, and the lock, ha<g ref="char:EOLhyphen"/>ving hung on a while, ſeem to pull the key out of his noſe.</p>
                <p>You may have thoſe looks neatly made, at my houſe, near the watch-houſe, on little Tower-hill, Poſtern-row, a bookſeller's ſhop.</p>
                <figure/>
             </div>
             <div type="part">
-               <pb n="15" facs="tcp:028540_0016_0FD93A0E8529DE70"/>
+               <pb n="15" facs="unknown:028540_0016_0FD93A0E8529DE70"/>
                <head>How to ſhew the magic bell and buſhel.</head>
                <p>This feat may well be called magical, for really it is very amazing, if it be well han<g ref="char:EOLhyphen"/>dled. This device was never known to the public before.</p>
                <p>This buſhel muſt be turned neatly like unto the egg-boxes, ſo that they cannot find ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -299,7 +300,7 @@ notches filled in the inner ſide, which muſt be ſo ordered, that one may lock
                   </gap> where it opens, and you muſt have a falſe lid to clap on and off; upon that falſe lid glue ſome bird-ſeed, and then you muſt have a true lid made to clap neatly upon the falſe one, now you muſt have your artificial bell to ſhew with your buſhel.</p>
                <p>You may make your bell with wood or
 <pb n="16"
-                      facs="tcp:028540_0017_0FD93A1146A8D198"
+                      facs="unknown:028540_0017_0FD93A1146A8D198"
                       rendition="simple:additions"/>
 braſs, your bell muſt be made to unſcrew at the top, that it may hold as much ſeed as your buſhel will when it is filled, and you muſt have the handle of your bell made with a ſpring, ſo as to let the ſeed fall down at your word of command.</p>
                <p>The manner how to uſe them is as fol<g ref="char:EOLhyphen"/>loweth: Note, you muſt be ſure to fill the top of your bell with ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -312,7 +313,7 @@ braſs, your bell muſt be made to unſcrew at the top, that it may hold as much
                <figure/>
             </div>
             <div type="part">
-               <pb n="17" facs="tcp:028540_0018_0FD93A12D5F3A8D0"/>
+               <pb n="17" facs="unknown:028540_0018_0FD93A12D5F3A8D0"/>
                <head>How to put a ring through one's cheek.</head>
                <p>You muſt have two rings made of ſilver, or braſs, or what you pleaſe, of one bigneſs, colour, and likeneſs, ſaving that one muſt have a notch through, and the other muſt be whole, without a notch; ſhew the whole ring, and conceal that which hath the notch, and ſay, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -348,7 +349,7 @@ braſs, your bell muſt be made to unſcrew at the top, that it may hold as much
                </p>
             </div>
             <div type="part">
-               <pb n="18" facs="tcp:028540_0019_0FD8C0332B238C70"/>
+               <pb n="18" facs="unknown:028540_0019_0FD8C0332B238C70"/>
                <head>How to ſhew the Hen and Egg-bag, and out of an empty bag to bring out above an hun<g ref="char:EOLhyphen"/>dred eggs, and afterwards to bring out a living hen.</head>
                <p>
                   <figure/>
@@ -357,7 +358,7 @@ braſs, your bell muſt be made to unſcrew at the top, that it may hold as much
                      <desc>•</desc>
                   </gap>
                   <pb n="19"
-                      facs="tcp:028540_0020_0FD93A180A5C7740"
+                      facs="unknown:028540_0020_0FD93A180A5C7740"
                       rendition="simple:additions"/>
 hook on that ſide you ſtand. The manner of performing it is thus: take the egg-bag, and put both your hands in it, and turn it inſide out, and ſay, Gentlemen, you ſee there is nothing in my bag; and, in turning it again, you muſt ſlip ſome of the eggs out of the purſes, as many as you think fit, and then turn your bag again and ſhew the company that it is empty; and, in turning it again, you command more eggs to come out, and when all is come out but one, you muſt take that egg and ſhew it to the company; and then drop your egg-bag, and take up your hen-bag, and ſo ſhake your hen, pidgeon, or any other fowl. This is a noble fancy, if well handled.</p>
             </div>
@@ -365,7 +366,7 @@ hook on that ſide you ſtand. The manner of performing it is thus: take the egg
                <head>How to cut the blowing book.</head>
                <p>Take a book ſeven inches long, and about five inches broad, and let there be forty-nine leaves, that is, ſeven times ſeven, con<g ref="char:EOLhyphen"/>tained therein, ſo as you may cut upon the edges of each leaf ſix notches, each notch in depth of a quarter of an inch, with a gouge made for that purpoſe, and let them be one inch diſtant; paint every thirteenth and fourteenth page, which is the end of every ſixth leaf and beginning of every ſeventh, with like colours, or pictures; cut off with a pair of ſheers, every notch of the firſt leaf, leaving only one inch of paper, which will remain half a quarter of an inch above that leaf; leave another like inch in the ſecond
 <pb n="20"
-                      facs="tcp:028540_0021_0FD93A1978C54F58"
+                      facs="unknown:028540_0021_0FD93A1978C54F58"
                       rendition="simple:additions"/>
 part of the ſecond leaf, clipping away an inch of paper in the higheſt place above it, and all notches below the ſame, and orderly to the third and fourth, and ſo as there ſhall reſt upon each leaf only one nick of paper above the reſt, one high uncut, an inch of paper muſt anſwer to the firſt directly, ſo as when you have cut the firſt ſeven leaves in ſuch a manner as I have deſcribed, you are to begin the ſelf ſame order at the eighth leaf, deſcending the ſame manner to the cutting the other ſeven leaves to twenty-one, until you are paſt through every leaf all the thickneſs of your book, &amp;c.</p>
                <p>This feat is ſooner learn'd by demonſtra<g ref="char:EOLhyphen"/>tive means, than taught by words of in<g ref="char:EOLhyphen"/>ſtruction; ſo, if any perſon wants to be furniſhed with theſe, blowing books, they may have them at my ſhop on Little-tower-hill, aforeſaid.</p>
@@ -376,15 +377,15 @@ part of the ſecond leaf, clipping away an inch of paper in the higheſt place a
                   <figure/>
                </p>
                <p>
-                  <pb n="21" facs="tcp:028540_0022_0FD93A20347E2BE0"/>You muſt get a double funnel, that is, two funnels ſoddered one within the other, ſo that you may, at the little end, pour in a quantity of wine or water, this funnel you may have ready filled before-hand, with whatſoever liquor you pleaſe, and call for ſome of the ſame kind, then draw your fun<g ref="char:EOLhyphen"/>nel, and ſetting your middle finger into the bottom of it, bid ſome body, or elſe do it yourſelf, pour it full, and drink it up before them, and turn the broad end of the funnel downwards, ſaying, "Gentlemen, all is gone;" and in a trice turn yourſelf about, and in turning pronounce ſome terms of art, withdraw your finger from the narrow end, and let the liquor out between the funnels, and it will be thought to be that which you drank out of the funnel, and ſo you may perſuade them it is the ſame.</p>
+                  <pb n="21" facs="unknown:028540_0022_0FD93A20347E2BE0"/>You muſt get a double funnel, that is, two funnels ſoddered one within the other, ſo that you may, at the little end, pour in a quantity of wine or water, this funnel you may have ready filled before-hand, with whatſoever liquor you pleaſe, and call for ſome of the ſame kind, then draw your fun<g ref="char:EOLhyphen"/>nel, and ſetting your middle finger into the bottom of it, bid ſome body, or elſe do it yourſelf, pour it full, and drink it up before them, and turn the broad end of the funnel downwards, ſaying, "Gentlemen, all is gone;" and in a trice turn yourſelf about, and in turning pronounce ſome terms of art, withdraw your finger from the narrow end, and let the liquor out between the funnels, and it will be thought to be that which you drank out of the funnel, and ſo you may perſuade them it is the ſame.</p>
             </div>
             <div type="part">
-               <pb n="22" facs="tcp:028540_0023_0FD93A2113EA1178"/>
+               <pb n="22" facs="unknown:028540_0023_0FD93A2113EA1178"/>
                <head>How to make three little children dance in a glaſs upon a table.</head>
                <figure/>
                <p>Take little figures of glaſs that are made hollow, of an inch and a half high, repreſent<g ref="char:EOLhyphen"/>ing little boys, which may be had at the glaſs-blowers; theſe little images have a ſmall hole in on of their legs, and are lighter than water; immerge them into the water con<g ref="char:EOLhyphen"/>tained in the glaſs A. B. this glaſs is about a foot or 15 inches high, and covered with a bladder which is tied faſt over the top; a ſmall quantity of air is to be left between
 <pb n="23"
-                      facs="tcp:028540_0024_0FD93A2504ED2390"
+                      facs="unknown:028540_0024_0FD93A2504ED2390"
                       rendition="simple:additions"/>
 the bladder and ſurface of the water; ſo, when you command them to walk down, preſs your hand hard upon the top, and they will immediately come down, and ſo you may make them dance in the middle of the glaſs, at your pleaſure; and when you would have them to go up to the top, take your hand away, and they will walk up.</p>
                <p>I hope this is ſufficient for your under<g ref="char:EOLhyphen"/>ſtanding; if not, you may have the glaſs and figures of me.</p>
@@ -397,11 +398,11 @@ the bladder and ſurface of the water; ſo, when you command them to walk down, 
                   <figure/>
                </p>
                <p>You muſt have the figure of a man made of wood, about the bigneſs of your little finger, the head whereof muſt be made to take off and put on at pleaſure, by means of a wire that is in the neck: alſo, you muſt have a cloth cap with a little bag within to convey the head into; the bag muſt be neatly made that it may not eaſily be perceived: ſhew your man to the company, 'Gentle<g ref="char:EOLhyphen"/>men,
-<pb n="24" facs="tcp:028540_0025_0FD93A293A859910"/>
+<pb n="24" facs="unknown:028540_0025_0FD93A293A859910"/>
 this I call my Bonus Cerius;' then ſhew the cap, ſaying, 'This is his coat:' ſay moreover, 'Look now as ſtedfaſt as you can, nevertheleſs I will cozen you, for therefore am I come;' then hold your cap above your face, and take your man in your right-hand, and put his head through the hole of the cap, ſaying, 'Now he is ready to go on any meſ<g ref="char:EOLhyphen"/>ſage I have to ſend him, to Spain, or to Italy, or whether I will, but he muſt have ſome<g ref="char:EOLhyphen"/>what to bear his charges, with that, pull out your right-hand from under the cap, and therewith, the body, but privately putting your right-hand into your pocket, as if you felt for money, where you may hide the body, and take out your hand and ſay, 'There is three crowns for you, now be gone,' then turn the head, and ſay, 'But he will look about him before he goes; then ſay, ſetting your fore-finger upon his crown, 'Juſt as I thruſt my finger down ſo he ſhall vaniſh;' and therewith by the aſſiſtance of your left-hand that is under the cap, convey his head into the little bag within the cap, then turn your cap about, and ſay, 'See here he is gone;' then take up your cap and hold it up again, throwing the head out of the little bag and ſay, 'Hic mecus Genius,' and in the mean time thruſt the head through the hole of the cap, and holding the head by the wire, turn it about preſently, and put the head into your pocket.</p>
                <q>
                   <pb n="25"
-                      facs="tcp:028540_0026_0FD93A2D9AD7E320"
+                      facs="unknown:028540_0026_0FD93A2D9AD7E320"
                       rendition="simple:additions"/>
                   <p>
                      <hi>Note.</hi> Any perſon that is deſirous to learn any part of this art, they may be taught by me.</p>
@@ -419,7 +420,7 @@ this I call my Bonus Cerius;' then ſhew the cap, ſaying, 'This is his coat:' �
             </div>
             <div type="part">
                <pb n="26"
-                   facs="tcp:028540_0027_0FD93A2F47E57818"
+                   facs="unknown:028540_0027_0FD93A2F47E57818"
                    rendition="simple:additions"/>
                <head>To convert money into counters, and counters into money.</head>
                <p>Another way to deceive the lookers on is, to do as before with a teſter, and keeping a counter in the palm of your left-hand ſecret<g ref="char:EOLhyphen"/>ly, to put the teſter ſecretly thereinto, which being retained ſtill in the right-hand, when the left-hand is opened, the teſter will ſeem to be turned into a counter.</p>
@@ -431,7 +432,7 @@ this I call my Bonus Cerius;' then ſhew the cap, ſaying, 'This is his coat:' �
             <div type="part">
                <head>To put one teſter into a ſtranger's hand, and another into your own and to convey both in<g ref="char:EOLhyphen"/>to the ſtranger's hand with words.</head>
                <p>Alſo, you may take two teſters, evenly ſet together, and put the ſame inſtead of one teſ<g ref="char:EOLhyphen"/>ter into a ſtranger's hand, and then making as though you did put one teſter in your left-hand with words, you ſhall make it ſeem that
-<pb n="27" facs="tcp:028540_0028_0FD93A30C7EC7910"/>
+<pb n="27" facs="unknown:028540_0028_0FD93A30C7EC7910"/>
 you convey the teſter in your hand into the ſtranger's hand; for when you open your ſaid left-hand, there ſhall be nothing ſeen, and he opening his hand, ſhall find two teſters, which he thought was but one. By this de<g ref="char:EOLhyphen"/>vice, I ſay a hundred conciets may be ſhew<g ref="char:EOLhyphen"/>ed.</p>
             </div>
             <div type="part">
@@ -441,7 +442,7 @@ you convey the teſter in your hand into the ſtranger's hand; for when you open
             <div type="part">
                <head>To throw a piece of money away, and to find it again where you left it.</head>
                <p>You may with the middle or ring-finger
-<pb n="28" facs="tcp:028540_0029_0FD93AE101193448"/>
+<pb n="28" facs="unknown:028540_0029_0FD93AE101193448"/>
 of the right-hand, convey a teſter into the palm with the ſame hand, and ſeem to caſt it away, keeping it ſtill, which, with con<g ref="char:EOLhyphen"/>federacy, will ſeem ſtrange: to wit, when you find it again, where another have be<g ref="char:EOLhyphen"/>ſtowed the like piece, but theſe things with<g ref="char:EOLhyphen"/>out exerciſe cannot be done; therefore I will proceed to ſhew how things may be brought to paſs with leſs difficulty, and yet as ſtrange as thereſt; being unknown, are marvellouſly commended, but being known, are derided and nothing at all regarded.</p>
             </div>
             <div type="part">
@@ -449,15 +450,15 @@ of the right-hand, convey a teſter into the palm with the ſame hand, and ſeem
                <p>You ſhall ſee a juggler take a teſter and throw it into a pot, or lay it in the midſt of a table, and with enchanting words cauſe the ſame to leap out of the pot, or run towards him, or from him along the table, which will ſeem miraculous until you know how it is done; which is thus, take a long black hair of a woman's head faſtened to the rim of a teſter, by the means of a little hole driven through the ſame with a Spaniſh needle, in like ſort you may uſe a knife, or any ſmall thing, but if you would have it go from you, you muſt have a confederate, by which means all juggling is graced and amended; this feat is the ſtranger if it be done by night, and a candle placed between the ſpectators and the juggler; for by that means their eyes are hindered from diſcerning the conceit.</p>
             </div>
             <div type="part">
-               <pb n="29" facs="tcp:028540_0030_0FD93A35FA069D40"/>
+               <pb n="29" facs="unknown:028540_0030_0FD93A35FA069D40"/>
                <head>To make a groat or teſter to ſink through a table and to vaniſh out of a handkerchief ſtrangely.</head>
                <p>A juggler alſo will ſometimes borrow a teſter and mark it before you, and ſeem to put the ſame into the midſt of a handker<g ref="char:EOLhyphen"/>chief, and wind it ſo as you may the better ſee and feel it; then will he take the hand<g ref="char:EOLhyphen"/>kerchief and bid you feel whether the teſ<g ref="char:EOLhyphen"/>ter be there or not, and he will alſo require you to put the ſame under a candleſtick, or ſome ſuch like thing; then he will ſend for a baſon of water, and holding the ſame un<g ref="char:EOLhyphen"/>der the table right againſt the candleſtick, he will uſe certain words of enchantment, and in ſhort you will hear the teſter fall into a baſon; this done, let one take off the can<g ref="char:EOLhyphen"/>dleſtick, and the juggler take the handker<g ref="char:EOLhyphen"/>chief by a toſſel and ſhake it, but the money is gone, which ſeemeth as ſtrange a feat as any whatſoever, but being known, the mi<g ref="char:EOLhyphen"/>racle is turned to a bauble, for it is nothing elſe but to few a teſter into a corner of a handkerchief, finely covered with a piece of linen a little bigger than your teſter, which corner you muſt convey inſtead of the teſ<g ref="char:EOLhyphen"/>ter delivered to you into the middle of your handkerchief, leaving the other in your hand or lap, which afterwards you ſeem to pull through the table, letting it fall into the baſon.</p>
             </div>
             <div type="part">
-               <pb n="30" facs="tcp:028540_0031_0FD93A3900F5A2D0"/>
+               <pb n="30" facs="unknown:028540_0031_0FD93A3900F5A2D0"/>
                <head>A notable trick to transform a counter to a groat.</head>
                <p>Take a groat, or ſome leſſer piece of mo<g ref="char:EOLhyphen"/>ney, and grind it very thin at one ſide, and take two counters and grind them, the one at one ſide; glew the ſmooth ſide of the groat to the ſmooth ſide of the counter, joining them ſo cloſe together as may be, eſpecially at the edges, which may be ſo filled as they ſhall ſeem to be but one piece, to wit, one ſide a counter and the other ſide a groat, then take a little green wax; for that is ſofteſt, and therefore beſt, and lay it ſo upon the ſmooth ſide of the counter as if, it do not much diſ<g ref="char:EOLhyphen"/>colour the groat, and ſo will that counter, with the groat, cleave together as though they were glued, and being filled even with the groat and the other counter, it will ſeem ſo perfect, like an entire counter, that though a ſtranger handle it he cannot betray it; then, having a little touched your fore-finger and the thumb of your right-hand with ſoft wax, take therewith this counter<g ref="char:EOLhyphen"/>feit counter, and lay it openly upon the palm of your left-hand, in ſuch ſort as if you were to lay down the counter, wringing the ſame hard, ſo as you may leave the glewed counter, with the groat, apparently in the palm of your left-hand, and the ſmooth ſide of the waxed counter will ſtick faſt upon your thumb, by reaſon of the wax where<g ref="char:EOLhyphen"/>with it is ſmeared, and ſo you may hide it at your pleaſure always; that you lay the waked
-<pb n="31" facs="tcp:028540_0032_0FD93A3A78658BB8"/>
+<pb n="31" facs="unknown:028540_0032_0FD93A3A78658BB8"/>
 ſide downward, and the glewed ſide upward, then cloſe your hand, and in, or after the cloſing thereof, turn the piece, and ſo inſtead of a counter, which they ſuppoſe to be in your hand, you ſhall ſeem to have a groat, to the aſtoniſhment of the beholders, if it be well handled. The juggler muſt not have any of his tricks wanting.</p>
             </div>
             <div type="part">
@@ -473,14 +474,14 @@ of the right-hand, convey a teſter into the palm with the ſame hand, and ſeem
                   </gap> hand. Note. This may be beſt done by put<g ref="char:EOLhyphen"/>ting the wax upon the two-penny piece, but then you muſt put it into your hand yourſelf.</p>
             </div>
             <div type="part">
-               <pb n="32" facs="tcp:028540_0033_0FD93A3EB35D6DE8"/>
+               <pb n="32" facs="unknown:028540_0033_0FD93A3EB35D6DE8"/>
                <head>To convey a teſter out of one's hand that holds it faſt.</head>
                <p>Stick a little wax upon your thumb, and take a ſtander-by, by the fingers, ſhewing him the teſter, and telling him you will put the ſame into his hand, then wring it down hard with your waxed thumb, and uſing ma<g ref="char:EOLhyphen"/>ny words, look him in the face, and as ſoon as you perceive him to look in your face, or on your hand, ſuddenly take away your thumb and cloſe his hand, and it will ſeem to him that the teſter remaineth; even as if you wring a teſter upon one's forehead, it will ſeem to ſtrike when it is taken away, eſpecially if it be wet; then cauſe him to hold his hand ſtill, and with ſpeed put into another man's hand, or into your own, two teſters inſtead of one, and uſe words of courſe, whereby you ſhall make the behold<g ref="char:EOLhyphen"/>ers believe, when they open their hands, that, by enchantment, you have brought both to<g ref="char:EOLhyphen"/>gether.</p>
             </div>
             <div type="part">
                <head>To convey a ſhilling, being in one hand, into a<g ref="char:EOLhyphen"/>nother, holding your hands abroad.</head>
                <p>It is neceſſary to mingle ſome merry pranks among your grave miracles, as in this caſe of money, to take a ſhilling in each hand, and holding your arms abroad, lay a wager that you will put them both into one hand without bringing them any nearer to<g ref="char:EOLhyphen"/>gether; the wager being laid, hold your
-<pb n="33" facs="tcp:028540_0034_0FD93A3FB88CCA98"/>
+<pb n="33" facs="unknown:028540_0034_0FD93A3FB88CCA98"/>
 arms abroad alike a rod, and turning about with your body, lay the ſhilling out of one of your hands upon the table, and turning to the other hand; and ſo you ſhall win your wager: a knack more merry than marvel<g ref="char:EOLhyphen"/>lous.</p>
             </div>
             <div type="part">
@@ -513,16 +514,16 @@ arms abroad alike a rod, and turning about with your body, lay the ſhilling out
                   </gap>pers ſeem to be but one, and which ſide <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ver you open, it ſhall appear to be the
-<pb n="34" facs="tcp:028540_0035_0FD93A42B8E48788"/>
+<pb n="34" facs="unknown:028540_0035_0FD93A42B8E48788"/>
 ſame, if you have handſomely the bottom, as you may well do with your middle finger, ſo as if you have a groat in one hand, and a counter in the other, you having ſhewed but one, may, by turning the paper, ſeem to change it; this may be the beſt performed by putting it under a candleſtick or a hat, and with words ſeem to do the feat. This is no inferior trick.</p>
             </div>
             <div type="part">
                <head>Of cards, with good caution how to avoid co<g ref="char:EOLhyphen"/>zenage therein eſpecially rules to convey and handle the cards, and the manner and or<g ref="char:EOLhyphen"/>der how to accompliſh all difficulties and ſtrange things wrought with cards.</head>
                <p>I having now beſtowed ſome waſte money among you, I will ſet you to cards, by which kind of witchcraft a great number of people have juggled away, not only their money, but alſo their lands, their health, their time, and their honeſty. I dare not as I could, ſhew the lude juggling that cheats practice, leaſt it miniſter ſome offence to the well diſpoſed; to the ſimple, hurt and loſſes, and to the wicked, occaſion of evil doing; but I could wiſh all gameſters to beware, not only of cards, but alſo of what dice they play with<g ref="char:EOLhyphen"/>al; but eſpecially with whom, and where they exerciſe gaming, and to let dice paſs as a thing whereby a man muſt be inevitably cozened: one that is ſkillful in making bum cards, may undo hundreds of wealthy men that are given to gaming; for if he hath a
-<pb n="35" facs="tcp:028540_0036_0FD93A854DF82430"/>
+<pb n="35" facs="unknown:028540_0036_0FD93A854DF82430"/>
 confederate preſent, either of the players or ſtanders-by, the miſchief cannot be avoided; if you play among ſtrangers, beware of him that ſeems ſimple or drunken, for under their habit the moſt ſpecious cozeners are preſented, and while you think by their ſim<g ref="char:EOLhyphen"/>plicity and imperfections to beguile them, and thereby perchance are purſuaded by their confederates, which you take to be your friends, you will be then moſt of all deceived: beware alſo of the betters and lookers-on, and particularly, of them that bet on your ſide, whilſt they look on your game with<g ref="char:EOLhyphen"/>out ſuſpicion, they diſcover it by ſigns to your adverſaries, with whom they bet, and yet are their confederates.</p>
                <p>But in ſhewing feats and juggling with cards, the principal point conſiſteth in the ſhuffling them nimbly, and always keeping one card either at the bottom or in ſome known place of the ſtock, four or five cards from it; hereby you ſhall ſeem to work won<g ref="char:EOLhyphen"/>ders, for it will be eaſy for you to ſee one card, which, though you be perceived to do, it will not be ſuſpected, if you ſhuffle them well afterwards: and this note I muſt give you, that in reſerving the bottom card, you muſt always whilſt you ſhuffle, keep him a little before or behind all the cards lying underneath him, beſtowing him, I ſay, either a little beyond his fellows before, right over the fore finger or elſe behind the reſt, ſo as
-<pb n="36" facs="tcp:028540_0037_0FD93A4664EB4370"/>
+<pb n="36" facs="unknown:028540_0037_0FD93A4664EB4370"/>
 the little finger of the left hand may meet with it, which is the eaſier, the readier, and better way: in the beginning of your ſhuffle<g ref="char:EOLhyphen"/>ing, ſhuffle as thick as you can, and in the end throw upon the ſtock the nether card, with ſo many more at the leaſt as you would have preſerved for any purpoſe, a little be<g ref="char:EOLhyphen"/>fore or a little behind the reſt, provided al<g ref="char:EOLhyphen"/>ways that your fore-finger (if the pack lay behind) creep up to meet with the bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>m card, and when you feel it, you may then hold it until you have ſhuffled over the cards again, ſtill leaving your kept card be<g ref="char:EOLhyphen"/>low: being perfect herein, you may do al<g ref="char:EOLhyphen"/>moſt what you liſt with cards by this means, what pack ſoever you uſe, though it con<g ref="char:EOLhyphen"/>ſiſteth of eight, twelve or twenty cards, you may keep them ſtill together unſerved next to the card, and yet ſhuffle them often to ſatisfy the curious beholders. As for ex<g ref="char:EOLhyphen"/>ample, and for brevity ſake, to ſhew divers feats under one.</p>
@@ -530,11 +531,11 @@ the little finger of the left hand may meet with it, which is the eaſier, the r
             <div type="part">
                <head>How to deliver out four aces, and to convert them into four knaves.</head>
                <p>Make a pack of theſe eight cards, to wit, four knaves, and four aces, and although the eight cards muſt be immediately together, yet muſt each knave and ace be evenly ſet to<g ref="char:EOLhyphen"/>gether, and the ſame eight cards muſt lie alſo in the loweſt place of the bunch, then ſhuffle them ſo always at the ſecond ſhuf<g ref="char:EOLhyphen"/>fling, or, at leaſtwiſe, at the end of your
-<pb n="37" facs="tcp:028540_0038_0FD93A8646012BA0"/>
+<pb n="37" facs="unknown:028540_0038_0FD93A8646012BA0"/>
 ſhuffling the ſaid pack, one ace may lay un<g ref="char:EOLhyphen"/>dermoſt, or ſo as you may know where he goeth and lieth always: I ſay, let your afore<g ref="char:EOLhyphen"/>ſaid pack, with three or four cards more, lie unſeparable together; immediately upon, and with that ace; then uſing ſome ſpeck, or other device, and putting your hands with the cards to the edge of the table, to hide the action, let out privately a piece of the ſecond card, which is one of the knaves, hol<g ref="char:EOLhyphen"/>ding forth the ſtock in both your hands, and ſhewing to the ſtanders-by the nether card, which is the ace, or kept card, covering alſo the head or piece of the knave, which is the next card, and with your <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>re-finger draw out the ſame knave, laying it down on the table; then ſhuffle them again, keep your pack whole, and ſo have your two aces lying together in the bottom; and to reform that diſordered card, and alſo to grace and countenance that action, take of the uppermoſt card of the bunch, and thruſt it into the midſt of the cards, and then take away the nethermoſt card, which is one of your ſaid aces, and be<g ref="char:EOLhyphen"/>ſtow him likewiſe; then may you, being as before, ſhewing another ace, and inſtead thereof lay down another knave and ſo forth, until, inſtead of your aces, you have laid down four knaves, the beholders all this while thinking that there lies four aces on the table, are greatly amuſed, and will marvel at the transformation: you muſt be well ad<g ref="char:EOLhyphen"/>viſed
-<pb n="38" facs="tcp:028540_0039_0FD93A47412048C8"/>
+<pb n="38" facs="unknown:028540_0039_0FD93A47412048C8"/>
 in ſhuffling of the bunch leſt you over-ſhoot yourſelf.</p>
             </div>
             <div type="part">
@@ -544,7 +545,7 @@ in ſhuffling of the bunch leſt you over-ſhoot yourſelf.</p>
             <div type="part">
                <head>Another way to do the ſame, having yourſelf never ſeen the cards.</head>
                <p>If you can ſee no card, or be ſuſpected to have ſeen that which you mean to ſhew, then let a ſtander-by ſhuffle, and afterwards take you the cards into your hands, and having ſhewed them, and not ſeen the bottom card, ſhuffle again, and keep the ſame cards, as before you are taught; and either make ſhift then to ſee it when their ſuſpicion is paſt, which may be done by letting ſome cards fall or elſe lay down all the cards in heaps, re<g ref="char:EOLhyphen"/>membering where you laid the bottom card; then eſpy how many cards lie in ſome one heap, and lap the flap where your bottom card is, upon that heap, and all the other
-<pb n="39" facs="tcp:028540_0040_0FD93A87C14247E8"/>
+<pb n="39" facs="unknown:028540_0040_0FD93A87C14247E8"/>
 heaps upon the ſame, and ſo if there were five cards in the he<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>, whereon you laid your card, then the ſame muſt be the ſixth card, which now you muſt throw out or look upon without ſuſpicion, and tell them the card they ſaw.</p>
@@ -557,7 +558,7 @@ heaps upon the ſame, and ſo if there were five cards in the he<gap reason="ill
                <head>How to make a card jump out of the pack, and run on the table.</head>
                <p>This is a wonderful fancy if it be well handled: as thus,</p>
                <p>Take a pack of cards, and let any one draw any card that they fancy beſt, and afterward take and put it into the pack, but ſo as you know where to find it at pleaſure; for by this time, I ſuppoſe you know how to ſhuffle the cards, and where to find any card when it is put into the pack; then take a piece of wax, and put it under the thumb nail of your
-<pb n="40" facs="tcp:028540_0041_0FD93A48C5964088"/>
+<pb n="40" facs="unknown:028540_0041_0FD93A48C5964088"/>
 hand, and then faſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> a hair to your thumb, and the other end o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -569,7 +570,7 @@ hand, and then faſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n into one's pocket; and how to make him draw the ſame, or any card you pleaſe, and all under one device.</head>
                <p>Take a nut, or a cherry ſtone; and burn a hole through the ſide of the top of the ſhell, and alſo through the kernel if you will, with a hot bedkin, or bore it with an awl, and with a needle pull out the kernel, ſo as the ſame may be as wide as the hole of the ſhell: then write the name of the card in a piece of fine paper, and roll it up hard, then put it into the nut or cherry ſtone, and ſtop the hole up with wax, and rub the ſame over with a little duſt, and it will not be perceived; then let ſome ſtander-by draw a card, ſaying, 'It is no matter what card you draw;' and if your hands to ſerve you to uſe the card well, you ſhall proffer him, and he ſhall receive the ſame card that you have rolled up in the nut; then take another nut and fill it up with ink, and then ſtop the
-<pb n="41" facs="tcp:028540_0042_0FD93A8A0FDB0178"/>
+<pb n="41" facs="unknown:028540_0042_0FD93A8A0FDB0178"/>
 hole up with wax, and then give that nut which is filled with ink, to ſomebody to crack, and when he finds the ink come out of his mouth, it will cauſe great laughter. By this feat on the cards, great wonders might be done.</p>
             </div>
             <div type="part">
@@ -578,7 +579,7 @@ hole up with wax, and then give that nut which is filled with ink, to ſomebody 
             </div>
             <div type="part">
                <pb n="42"
-                   facs="tcp:028540_0043_0FD93A4CEBA42268"
+                   facs="unknown:028540_0043_0FD93A4CEBA42268"
                    rendition="simple:additions"/>
                <head>How to change a pack of cards into all manner of pictures.</head>
                <p>
@@ -587,7 +588,7 @@ hole up with wax, and then give that nut which is filled with ink, to ſomebody 
                <p>You muſt take a pack of cards and paint upon the back-ſide of one half of the pack what manner of figures that pleaſe your fancy beſt, as men, women, birds, flowers, &amp;c. Then paint the other half, of the cards, viz. on that ſide where the ſpots are on, after the ſame manner you did the other half, ſo be<g ref="char:EOLhyphen"/>tween them both, you will have a compleat pack of all pictures; and when you will per<g ref="char:EOLhyphen"/>form this trick, you muſt ſhew the cards but half-way. This is one of the beſt tricks on the cards; and you may have them ready made at my houſe.</p>
             </div>
             <div type="part">
-               <pb n="43" facs="tcp:028540_0044_0FD93A8B79BF0520"/>
+               <pb n="43" facs="unknown:028540_0044_0FD93A8B79BF0520"/>
                <head>How to knit a knot upon a handkerchief, and to undo the ſame with words.</head>
                <p>Make one plain looſe knot with the two corner ends of a handkerchief, with ſeem<g ref="char:EOLhyphen"/>ing to draw the ſame very hard, hold faſt the body of the ſaid handkerchief, near to the k<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -617,20 +618,20 @@ hole up with wax, and then give that nut which is filled with ink, to ſomebody 
                   </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> looſe, and pull the handker<g ref="char:EOLhyphen"/>chief ſo with your right hand as the left hand end may be near to the knot, then will it ſeem to be a true and firm knot; and to make it appear more aſſuredly to be ſo, let a ſtranger pull at the end which you have in your left hand, while you hold faſt the other in your right hand, and then holding the knot with your fore-finger and thumb, and the lower part of your handkerchief with your other finger, as you hold a bridle, when you would with one hand ſlip up the knot and lengthen the reins; this done, turn, your handkerchief over the knot with the left hand, in doing whereof you muſt ſuddenly ſlip out the end or corner, putting up the knot of your handkerchief with your fore-finger and thumb, as you would put up the aforeſaid knot of your bridle: then deliver the ſame covered and wrapt within the midſt of the handkerchief to one to hold
-<pb n="44" facs="tcp:028540_0045_0FD93A5107E57C00"/>
+<pb n="44" facs="unknown:028540_0045_0FD93A5107E57C00"/>
 faſt, and after pronouncing of ſome words of art, take the handkerchief and ſhake it, and it will be looſe.</p>
             </div>
             <div type="part">
                <head>How to take three button moulds off two ſtrings.</head>
                <figure/>
                <p>Take two little whipcords of two feet long a-piece, double them equally ſo as there may appear four ends; then take three button moulds, the hole of one of them muſt be bigger than the reſt, and put one button mould upon the eye or bout of the one cord and another on the other cord, then take the button mould with the greateſt hole, and let both the bouts be hidden therein; which may be the better done if you put the eye or bout of the one into the eye or bout of the other; then pull the middle button upon the ſame, being doubled over his fellow, ſo will the heads ſeem to be put over the two cords, you may looſe them as you liſt, and make it ſeem manifeſt to the beholders, which may not ſee how they are done, but that the but<g ref="char:EOLhyphen"/>tons are put upon the two cords without
-<pb n="45" facs="tcp:028540_0046_0FD93A528926B660"/>
+<pb n="45" facs="unknown:028540_0046_0FD93A528926B660"/>
 any fraud; then muſt you ſeem to add a more effectual binding of thoſe buttons to the ſtrings, and make one half of a knot with one of the ends of each ſide, which is for no other purpoſe, but that when the buttons be taken away, the cords may be ſee in the caſe, which the beholders ſuppoſes them to be in before; for then you have made your half knots, which in any wiſe you may not double to make a perfect knot, you muſt deliver into the hands of ſome ſtander <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> theſe two cords, namely, two cords evenly ſet to one hand, and two in the other, and then with a wager begin to pull off the but<g ref="char:EOLhyphen"/>tons, which if you handle nimbley, and in the end cauſe him to pull his two ends, the two cords will ſhew to be placed plainly, and the buttons to have come thro' the cords; but thoſe things are ſo hard, and long to be deſcribed, that I will leave them, whereas I could ſhew greater variety.</p>
                <p>READER,</p>
                <p>I Have promiſed you to write ſomething of confederacy, that when you ſee or hear ſome fancy done, you ſhall be no ſtran<g ref="char:EOLhyphen"/>ger to it, but know how to do it as well as any juggler in England, for by confederacy mighty wonders are wrought, which ſeem incredible and impoſſible. Some will aſk for what reaſon I do write theſe things and ſet them forth in ſuch a manner, for they
-<pb n="46" facs="tcp:028540_0047_0FD93A56BA519890"/>
+<pb n="46" facs="unknown:028540_0047_0FD93A56BA519890"/>
 ſay, we know them already; my anſwer is, if you do, every one does not; therefore ſlight not ſimple things, for you that ſeem to be ſo cunning and ſo wary may be impoſed on and deceived: what would an ingenious perſon give, or how far would he go to learn ſecrets? I myſelf would have gone twenty miles to have learnt the worſt fan<g ref="char:EOLhyphen"/>cy in this book; I would have you take it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> good part, and ſo I proceed to the chap<g ref="char:EOLhyphen"/>
@@ -641,13 +642,13 @@ any fraud; then muſt you ſeem to add a more effectual binding of thoſe button
             <div type="part">
                <head>To cure the tooth-ach.</head>
                <p>This muſt be done by confederacy, I won many a pint of wine by it; you muſt pre<g ref="char:EOLhyphen"/>tend you are grievouſly troubled with the tooth-ach, making wry faces and pretending a great deal of pain; then ſays your confe<g ref="char:EOLhyphen"/>derate, I will undertake to cure you in a quarter of an hour, it is a plain but a very ſafe and eaſy way, he then takes a thimble full of ſalt, puts it into a piece of paper, then ſays he, Hold this to your check on that ſide the pain lies, and it will be gone. You ſhak<g ref="char:EOLhyphen"/>ing your head at him, aſking him, if he can find none to make ſport with but you that are not diſpoſed; he then proffers you to try his receipt, which, with ſeeming unwilling<g ref="char:EOLhyphen"/>neſs take and hold it to your cheek a ſmall time, then he will aſk you if you find eaſe, you ſpitting much, ſay, Yes, truly I find it much abated; then he will ſay, to perfect it,
-<pb n="47" facs="tcp:028540_0048_0FD93A5881FCC618"/>
+<pb n="47" facs="unknown:028540_0048_0FD93A5881FCC618"/>
 lay down your paper upon the table, ſtep into the yard and waſh your mouth with a ſpoon<g ref="char:EOLhyphen"/>ful of cold water: Now (ſays he to the com<g ref="char:EOLhyphen"/>pany, in your abſence) You may ſee what conceit does, I will take out the ſalt, and put in the like quantity of aſhes in the pa<g ref="char:EOLhyphen"/>per; laying it twiſted as before in its place, then he coming in, takes up the paper again, and puts it into his mouth as before, (the company will be laughing and fleering as tho' you are ignorant, then privately convey the aſhes away with the paper and another paper of ſalt like the former, as you muſt have in readineſs as before, hold to your cheek, your confederate aſking you, Well, what think you now? Why, indeed one would not have thought to have had ſo ſoon an alteration in a little; then will one or another ſay in company, Why, do you think you have ſalt in your mouth? Yes, I ſaw it taken out of the box; he will lay you a wa<g ref="char:EOLhyphen"/>ger preſently, that it is not ſalt, when by o<g ref="char:EOLhyphen"/>pening the paper, his folly is diſcovered, with no ſmall ſport to the company.</p>
             </div>
             <div type="part">
                <head>To know if it be a head, or woman, and the par<g ref="char:EOLhyphen"/>ty to ſtand in another room.</head>
                <p>This likewiſe is done by confederacy, he that lays it down, ſays, What is it? and that is a ſign it is a head; for he ſays, What is it now, and that is a ſign it is a woman: croſs and pile in ſilver is done the ſame way. By
-<pb n="48" facs="tcp:028540_0049_0FD93A5B85FAFD98"/>
+<pb n="48" facs="unknown:028540_0049_0FD93A5B85FAFD98"/>
 confederacy divers ſtrange things are done; as to make a man, by muttring ſome words, to pull off his cloaths, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>o dance naked; thus you may throw a piece of mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -670,7 +671,7 @@ confederacy divers ſtrange things are done; as to make a man, by muttring ſome
                      <desc>•</desc>
                   </gap>s more for paſtime than any thing elſe.</p>
                <p>You muſt go and get you a poſt of about five or ſix inches long, and you muſt then get it turned hollow throughout, ſo that you may have a ſcrew made juſt fit, and then put a needle at each end of the ſcrew, and have two holes ſo contrived in the poſt that you may faſten two ſtrings in the ſcrews, ſo as when you pull one end of the ſtring, the needle will run into your finger, and when you pull hold of the other end of the ſtring,
-<pb n="49" facs="tcp:028540_0050_0FD93A9173DF4430"/>
+<pb n="49" facs="unknown:028540_0050_0FD93A9173DF4430"/>
 the needle <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>im into your thumb, which will cauſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -744,7 +745,7 @@ the needle <gap reason="illegible" resp="#PDCC" extent="1 letter">
                <head>The Egg Box is looked upon to be as good a trick and as cunning a ſlight, as any that is done, but becauſe it cannot be expreſſed in words, I have put theſe figures underneath to explain it.</head>
                <figure/>
                <p>A, ſignifies the egg box, made in the fa<g ref="char:EOLhyphen"/>ſhion of two bee-hives put one upon another; B, the upper ſhell; C, the inner ſhell, co<g ref="char:EOLhyphen"/>vered over artificially with the ſkin of an egg; P the lower part of the ſhell-box; put<g ref="char:EOLhyphen"/>ting B, which is the outward ſhell, upon C, and both upon P, as it ſtands, makes the box perfect. To do this trick, call for an egg, then bid all ſtanders-by look on it, and ſee that it is a real egg, ſetting the box on the
-<pb n="51" facs="tcp:028540_0052_0FD93A92407F6D18"/>
+<pb n="51" facs="unknown:028540_0052_0FD93A92407F6D18"/>
 table, upon the foot C, take off the upper part, B, C, with your fore-finger and thumb, then placing the egg in the box, ſay, You ſee it fairly in, and uncovering it again, like<g ref="char:EOLhyphen"/>wiſe ſay, You ſhall ſee me fairly take it out, putting it into your pocket in their ſight; open your box again and ſay, There is no<g ref="char:EOLhyphen"/>thing, cloſe your hand about the middle of your box, and taking B, by the bottom, ſay, There is the egg again, which appears to the ſpectators to be; ſo clapping that in again, and take the lid of C, in your finger and thumb, ſay, There it is gone again.</p>
                <p>This feat is not for a bungler to ſhew.</p>
             </div>
@@ -755,11 +756,11 @@ table, upon the foot C, take off the upper part, B, C, with your fore-finger and
             <div type="part">
                <head>How to eat fire, and to blow it up in your mouth with a pair of bellows.</head>
                <p>
-                  <pb n="52" facs="tcp:028540_0053_0FD93A60ED3CD750"/>
+                  <pb n="52" facs="unknown:028540_0053_0FD93A60ED3CD750"/>
                   <figure/>
                </p>
                <p>Anoint your tongue with liquid-ſtorax, and you may put a pair of tongs into your mouth red hot, without hurting yourſelf, and lick them till they are cold, by the help of this a<g ref="char:EOLhyphen"/>nointment, and by preparing your mouth thus, you may take wood coal out of the fire, and eat them as you would bread, dip them into brimſtone-powder, and the fire will ſeem more ſtrange, but the ſulphur puts our the coal, and ſhutting your mouth cloſe puts out the ſulphur, and ſo they champ the coals and ſwallow them, which they may do with<g ref="char:EOLhyphen"/>out offending the body; but if they were bound to eat nothing elſe, it would be a very ſickly trade; and if you put a piece of lighted charcoal into your mouths you may ſuffer a pair of bellows to be a blowing in your mouth continually, and receive no hurt,
-<pb n="53" facs="tcp:028540_0054_0FD93A93D196CEC0"/>
+<pb n="53" facs="unknown:028540_0054_0FD93A93D196CEC0"/>
 but your mouth muſt be quickly cleaned, otherwiſe it will cauſe a ſalivation; it is a very danger<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap> 
@@ -798,19 +799,19 @@ but your mouth muſt be quickly cleaned, otherwiſe it will cauſe a ſalivation
                   </gap>o two ounces of hamitatis, a red ſtone to be had at the druggiſts, and when you buy it, beat it to powder in their great mortar, for it is ſo very hard, that it cannot be done in a ſmall one; put this to the afore-menti<g ref="char:EOLhyphen"/>oned compoſition, and when you intend to walk on the bar, you muſt anoint your feet well therewith, and you may walk over without danger: by this you may waſh your hands in boiling lead.</p>
             </div>
             <div type="part">
-               <pb n="54" facs="tcp:028540_0055_0FD93A6539E54230"/>
+               <pb n="54" facs="unknown:028540_0055_0FD93A6539E54230"/>
                <head>How to make a knife leap out of a pot.</head>
                <figure/>
                <p>When you are in company, and intend to make mirth, have a pot full of water ſtan<g ref="char:EOLhyphen"/>ding on a table, then take a piece of whale-bone about three inches long, let it be pret<g ref="char:EOLhyphen"/>ty ſtiff, it will ſpring the better; take alſo a new ſtiff card, and fold it down the mid<g ref="char:EOLhyphen"/>dle long-ways, cut a hole through both folds at each end, half an inch or more from the ends, put one end of the whale-bone in at one end of the card, bend it like a bow, then put the other end of the whale-bone into the other end of the card, ſet this into the pot, with two inches or more deep in wa<g ref="char:EOLhyphen"/>ter, then place the handle of your knife upon the uppermoſt part of the whale-bone, with the point upwards: uſe ſome words of art, as Preſto vet, or Omporte.</p>
                <p>Note, I have invented a new inſtrument to perform this fancy, which is to be admi<g ref="char:EOLhyphen"/>red by all ingenious perſons.</p>
             </div>
             <div type="part">
-               <pb n="55" facs="tcp:028540_0056_0FD93A95398AA2F8"/>
+               <pb n="55" facs="unknown:028540_0056_0FD93A95398AA2F8"/>
                <head>The melting-box.</head>
                <figure/>
                <p>This melting box is another artificial ſlight, which is ſhewn as above, made in the faſhion of a ſcrew, that ſo the lips may hang without diſcovery; as thus, F is the out<g ref="char:EOLhyphen"/>part of the box; G the firſt in-part. H the ſecond in-part; I a round caſe made of pluſh or leather, with a button on the top, and wide enough to ſlip on and off, half in the bottom of the box, F put a ſmall quantity of quick-ſilver killed, which may be done with the ſhavings of pewter, or faſting ſpittle; in the ſecond part, which is H, let there be ſix ſingle pence, put theſe in the firſt or out<g ref="char:EOLhyphen"/>moſt part, then put G to H; and the box is perfect.</p>
                <p>When you go to ſhew this trick, deſire any in the company to lend you a ſixpence, and
-<pb n="56" facs="tcp:028540_0057_0FD93A6842750F10"/>
+<pb n="56" facs="unknown:028540_0057_0FD93A6842750F10"/>
 you will return it ſafe again; but requeſting withal, that none will meddle with any thing they ſee, unleſs you deſire them, leſt they prejudice you and them<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>elves; then take the cup off the box, and bid any one ſee it and feel it, that there may be no miſtruſt, ſo like<g ref="char:EOLhyphen"/>wiſe ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -834,7 +835,7 @@ you will return it ſafe again; but requeſting withal, that none will meddle wi
                   </gap> then take of<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the cup with your fore-finger and thumb, ſo as you pinch the innermoſt box with it, and ſet it gently on the table; then put the killed quickſilver out of the lower part into your hand, turn<g ref="char:EOLhyphen"/>ing the box with the bottom upward and ſtirring it about with your finger; 'Here you ſee it melted, now I will put it in again and turn it into ſix ſingle pence; ſuddenly take the cap as you took it off, returning it again, bid them blow on it; then take off the cap as you did before, only pinching the uppermoſt lid in it, and ſetting it upon the table, hold the box at the top and bottom with your fore-finger and thumb, then put the ſix ſingle pence, after they are viewed and ſeem to be ſo, in again, and return the cap as before, ſaying, Blow on it if you would have it in the ſame form you gave it me, then
-<pb n="57" facs="tcp:028540_0058_0FD93A9AF27B9D50"/>
+<pb n="57" facs="unknown:028540_0058_0FD93A9AF27B9D50"/>
 taking the cup by the button, holding the box as before, put out the ſix-pence and return the box into your pocket. This is a very good ſlight, if well performed, which is done by often uſe.</p>
             </div>
             <div type="part">
@@ -842,11 +843,11 @@ taking the cup by the button, holding the box as before, put out the ſix-pence 
                <p>You muſt take a little piece of phoſphorus, about the bigneſs of a pin's head, and with a piece of tallow, ſtick it on the edge of the drinking-glaſs, and then take the candle lighted and blow it out; and apply it to the glaſs, it will immediately light. This is the preparation that Cromwell uſed to fire off his cannon withal, very amazing to behold; you may write with it on a paper, ſome horrible words or other, and it will appear frightful to the beholders: alſo, you may take a piece as big as a pin's head, and rub it on a piece of paper, and it will be ſoon all on a flame.</p>
             </div>
             <div type="part">
-               <pb n="58" facs="tcp:028540_0059_0FD93A69DB090540"/>
+               <pb n="58" facs="unknown:028540_0059_0FD93A69DB090540"/>
                <head>A trick upon the globe-box.</head>
                <figure/>
                <p>This is a trick not inferior to the beſt that is ſhewn with boxes; it is a box made of four pieces, and a ball ſo big as is imag<g ref="char:EOLhyphen"/>ined to be contained therein: the ball ſerves
-<pb n="59" facs="tcp:028540_0060_0FD93A9C1BAD9240"/>
+<pb n="59" facs="unknown:028540_0060_0FD93A9C1BAD9240"/>
 in the ſame nature, as the egg does in the egg box, only to deceive the hand and eye of the ſpectators. This ball, made of wood or ivory, is thrown out of the box upon the table, for everyone to ſee that it is ſubſtantial, then putting the ball into the box, and let<g ref="char:EOLhyphen"/>ting the ſtanders-by blow on the box, tak<g ref="char:EOLhyphen"/>ing off the upper ſhell with your fore-finger and thumb, there appears another, and of another colour, as red, blue, yellow, or any variety of colours upon each ball that is ſo imagined to be, which indeed is no more than the ſhell of wood ingeniouſly turned and fitted for the box, as you may ſee in the figures above.</p>
                <p>L, the out-ſhell of the globe taken off the figures; M, N, an inner ſhell; O, the cover of the ſame; P, the other inner ſhell; Q, the cover of the ſame; R, the third ſhell; S, that which covers it. Theſe globes may be made with more or leſs varieties, according to the deſire of the practitioner.</p>
             </div>
@@ -855,7 +856,7 @@ in the ſame nature, as the egg does in the egg box, only to deceive the hand an
                <p>Take a pack of cards, and after you have ſhuffled them, or let another ſhuffle them, lay them down upon the table before you, with their backs uppermoſt, then ſay,
 <q>Now I will tell you the names of all the reſt of the cards in the pack, except one, before I ſee them;</q>
 having ſaid ſo draw off the up<g ref="char:EOLhyphen"/>permoſt
-<pb n="60" facs="tcp:028540_0061_0FD93A6E9835B548"/>
+<pb n="60" facs="unknown:028540_0061_0FD93A6E9835B548"/>
 cards, and ſay,
 <q>This is my Hocus Pocus, This, is he by whoſe aſſiſtance I ſhall diſcover all the reſt of the cards in the pack; I care not what he is, for I can make any of them ſerve for the ſame pur<g ref="char:EOLhyphen"/>poſe.</q>
 Then put him to your mouth, as tho' you charmed him, and repeat ſome cramp words; and taking off the next card from the pack, ſay, Here is the — naming your Hocus Pocus, and having ſeen him, lay him down.</p>
@@ -863,19 +864,19 @@ Then put him to your mouth, as tho' you charmed him, and repeat ſome cramp word
             <div type="part">
                <head>How to hold four kings in the hand, and by words to ſeem to transform them into four aces, and afterwards to make them all blank cards.</head>
                <p>You ſhall ſee a juggler take four kings in his hand, and apparently ſhew you them, then after ſome words and charms, he will throw them down upon the table, taking one of the kings away, and adding but on other card; then taking them up again, and blowing upon them, will ſhew you them transformed into blank cards, white one both ſides, then throwing them down as before, with their faces downwards, will take them up again, and blowing upon them, will ſhew you four aces. This trick, in my mind, is not inferior to any of the reſt, and being not known, will ſeem very ſtrange to the beholders, and yet after you know it, you cannot but ſay the trick is pretty. Now
-<pb n="61" facs="tcp:028540_0062_0FD93A9F0F23B798"/>
+<pb n="61" facs="unknown:028540_0062_0FD93A9F0F23B798"/>
 to do this feat, you muſt have cards made for the purpoſe, half cards we may call them; that is one half kings and the other half aces, ſo laying the aces one over the other, nothing but kings will be ſeen, and then turning the kings downwards, the four aces will be ſeen; but you muſt have two whole cards, one a king, to cover one of the aces, or elſe it will be perceived; and the other an ace, to lay over the kings, when you mean to ſhew the aces; then, when you would make them all blank, lay the cards a little lower and hide the aces, and they will appear all white. The like you may make of four knaves, putting upon them the four fives; and ſo of the other cards.</p>
             </div>
             <div type="part">
                <head>To tell or name all the cards in the pack, and yet never ſee them.</head>
                <p>To do this, you muſt firſt privately drop a drop of water or beer about the bigneſs of a two-pence upon the table before you, were you fit, then reſt your elbows upon the table ſo as the cuffs of your ſleeves may meet, and your hands ſtick up to the brims of your hat; in this poſture your arms will hide the drop of water from the company; then let any one take the cards and ſhuffle them, and put them into your hands; alſo let, them ſet a candle before you, for this trick is beſt done by candle light, then holding the cards in your left hand, above the brim
-<pb n="62" facs="tcp:028540_0063_0FD93A7049BBE9B0"/>
+<pb n="62" facs="unknown:028540_0063_0FD93A7049BBE9B0"/>
 of your hat, up cloſe to your head, ſo as the light of the candle may ſhine upon the cards, and holding your head down; ſo in the drop of water, like a looking-glaſs, you ſhall ſee the ſhadow of all the cards before you; draw then the fingers of your right-hand a<g ref="char:EOLhyphen"/>long upon the cards, as though you felt the ſpots, name the cards, and then lay him down. Thus you may lay down all the cards in the pack, one by one, naming them be<g ref="char:EOLhyphen"/>fore you lay them down, which will ſeem very ſtrange to the beholders, who will think that you have felt them out.</p>
             </div>
             <div type="part">
                <head>To ſhew one what card be taketh notice of.</head>
                <p>Let any man take a card out of the pack, and note him: then take part of the pack in your hand, and lay the reſt down upon the table; bidding him lay his noted card upon them; then turning your back towards the company, make as though you were look<g ref="char:EOLhyphen"/>ing over the cards in your hand, and put any card at the fore-ſide; and whilſt you are doing this privately, wait the cards be<g ref="char:EOLhyphen"/>ing laid out in heaps, to find what the bot<g ref="char:EOLhyphen"/>tom cards are. Bid any one take four cards of the ſame number, viz. 4 aces, 4 duces, 4 trays, 4 fours, or any other number not exceeding 10, (for he muſt not take court cards) and lay them out; then take the re<g ref="char:EOLhyphen"/>maining cards (if any ſuch there be) and divide their number by 4, and the quotient
-<pb n="63" facs="tcp:028540_0064_0FD93AA09B582710"/>
+<pb n="63" facs="unknown:028540_0064_0FD93AA09B582710"/>
 ſhall be the number of ſpots of the 4 card: if 12 cards remain, then on each bottom card w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>re <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -887,7 +888,7 @@ of your hat, up cloſe to your head, ſo as the light of the candle may ſhine u
                <p>Bid any one take the whole pack of cards in his hand, and having ſhuffled them, let him take off the upper card, and having ta<g ref="char:EOLhyphen"/>ken notice of it, let him lay it down upon the table with his face downwards, and up<g ref="char:EOLhyphen"/>on it let him lay ſo many cards, as will make up the number of the ſpots on the noted card, 12 e. g. If the card which the perſon firſt took notice of, were a king, queen, or knave, or a ſingle ten, bid him lay down that card with his face downwards, calling him ten, upon that card let him lay another, calling him eleven, and upon another, calling him twelve; then bid him take off the next uppermoſt card, ſaying, what is it? Sup<g ref="char:EOLhyphen"/>poſe it were a 9, and laying it down on an<g ref="char:EOLhyphen"/>other part of the table, calling him 9, upon him lay another card, calling him 10, and upon him another, calling him 11, and up<g ref="char:EOLhyphen"/>on him another, calling him 12; then let him look on the next uppermoſt card, and ſo let him proceed to lay them up in heaps, in all reſpects as before, till he has laid ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the whole pack; but if there be any odd
-<pb n="64" facs="tcp:028540_0065_0FD93A71440D4EC8"/>
+<pb n="64" facs="unknown:028540_0065_0FD93A71440D4EC8"/>
 cards at the laſt, I mean, if there is not e<g ref="char:EOLhyphen"/>nough, to make up the laſt noted card 12, bid him give them to you; then to tell him the numbers of all the ſpots contained in all the bottom cards of the heaps, do thus, from the number for heaps ſubtracted 4, and multiply the remainder by 12, and to the product add the numbers of thoſe re<g ref="char:EOLhyphen"/>maining cards, which he gave you, if any remain, but if there were but four heaps, then thoſe remaining cards alone, ſhew the number of ſpots ſought.</p>
                <p>Note, That you ought not to ſee the bot<g ref="char:EOLhyphen"/>tom cards of the heaps, nor ſhould you ſee them laid out, or know the number of cards in each heap, it ſuffices if you know the number of heaps, and the number of the remaining cards, if any ſuch there be; and therefore you may as well perform this feat ſtanding in another room as if you were preſent, you muſt have a whole pack.</p>
             </div>
@@ -895,7 +896,7 @@ cards at the laſt, I mean, if there is not e<g ref="char:EOLhyphen"/>nough, to 
                <head>To make any two cards come together, which any body ſhall name.</head>
                <p>When any one has named what two cards he would have brought together, take the cards and ſay, Let us ſee whether they are here or not, and if they are, I will put them as far aſunder as I can; then having found the two cards propoſed, diſpoſe them in the pack, and cauſe them to come together.</p>
                <p>This trick would ſeem much more ſtrange,
-<pb n="65" facs="tcp:028540_0066_0FD93AA21F5B1D68"/>
+<pb n="65" facs="unknown:028540_0066_0FD93AA21F5B1D68"/>
 when you have brought the propoſed cards together, by laying them in heaps, you lay the heap wherein the propoſed cards are at the bottom of the pack, and then ſhuffle the cards, cut them aſunder ſomewhere in the middle, ſo the propoſed cards will be found together in the middle of the pack, which will ſeem very ſtrange to beholders.</p>
             </div>
             <div type="part">
@@ -905,18 +906,18 @@ when you have brought the propoſed cards together, by laying them in heaps, you
             <div type="part">
                <head>How to burn a thread, and to make it whole again with the aſhes.</head>
                <p>It is not one of the worſt tricks to burn a thread handſomely and make it whole again, the manner whereof is this: take two threads or ſmall laces, of one foot length a piece, roll up one of them round, which will be then about the bigneſs of a pea, put the ſame between your left fore-finger and your thumb, then take the other thread, and hold it forth at length betwixt your fore-finger and thumb of each hand, holding all your
-<pb n="66" facs="tcp:028540_0067_0FD93A7311F51B60"/>
+<pb n="66" facs="unknown:028540_0067_0FD93A7311F51B60"/>
 fingers daintily, as young gentlewomen are taught to hold up a morſel of meat; then let one cut aſunder the fame thread in the middle; when that is done, put the tops of your two thumbs together, and ſo ſhall you, with leſs ſuſpicion, receive the piece of thread which you hold in your right-hand, into your left, without opening of your left finger and thumb; then holding thoſe two pieces as you did before it was cut, let theſe two be alſo cut aſunder in the midſt, and they conveyed again as before, until they be very ſhort, and then roll all thoſe ends to<g ref="char:EOLhyphen"/>gether, and keep that ball of thread before the other in the left hand, and with a knife thruſt the ſame into a candle, where you may hold it until the ſaid ball of thread be burnt to aſhes; then pull back the knife with your right-hand, and leave the aſhes with the other ball betwixt your fore-finger and thumb of your left hand together, take pains to rub the aſhes till your thread be re<g ref="char:EOLhyphen"/>newed, and draw out that thread at length which you had, all this while, betwixt your fore-finger and thumb. This is not inferior to any juggler's trick, if it be well handled, for if you are ſo perfect in Legerdemain, as to beſtow the ſame ball of thread and to change it from place to place, betwixt your other fingers, as may be eaſily done, then it will ſeem very ſtrange.</p>
             </div>
             <div type="part">
-               <pb n="67" facs="tcp:028540_0068_0FD93AA660968780"/>
+               <pb n="67" facs="unknown:028540_0068_0FD93AA660968780"/>
                <head>To cut a lace aſunder in the middle, and to make it whole again.</head>
                <p>By a device not much unlike the former, you may ſeem to cut aſunder any lace that hangs about one's neck, or any point, girdle or garter, and with a ſham conjuration to make it whole, and cloſe it together again: for the accompliſhment whereof, provide if you can, a piece of the lace which you mean to cut, or at leaſt a pattern like the ſame, one inch and a half long, and keeping it double privately in your left-hand, betwixt ſome of your fingers, near to the tips there<g ref="char:EOLhyphen"/>of, take the other lace which you mean to cut ſtill hanging about one's neck, and draw down your ſaid left-hand to the bout there<g ref="char:EOLhyphen"/>of, and putting your own piece a little be<g ref="char:EOLhyphen"/>fore the other, the end or rather middle whereof, you muſt hide betwixt your fore-finger and thumb, make the eye, or bout which will be ſeen of your own pattern; let a ſtander-by cut the ſame aſunder, and it will be ſurely thought that the other lace is cut; which with words and fretting, you ſhall ſeem to renew, and make whole again. This if it be well handled, will ſeem mira<g ref="char:EOLhyphen"/>culous.</p>
             </div>
             <div type="part">
                <head>How to pull innumerable ribbons out of your mouth, of what colour you pleaſe.</head>
                <p>As for pulling ribbons out of your mouth, it is ſomewhat a ſtale jeſt, whereby jugglers
-<pb n="68" facs="tcp:028540_0069_0FD93A769DBCDAA0"/>
+<pb n="68" facs="unknown:028540_0069_0FD93A769DBCDAA0"/>
 get money from maids by ſelling laces by the yard, putting into their mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>th one round bottom, as faſt as they pull ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -935,7 +936,7 @@ get money from maids by ſelling laces by the yard, putting into their mo<gap re
                   <figure/>
                </p>
                <p>
-                  <pb n="69" facs="tcp:028540_0070_0FD93AA738A76330"/>There is another juggling knack which they call the bridle, being made of two el<g ref="char:EOLhyphen"/>der, ſticks, through the hollowneſs thereof is placed a cord, the ſame being put on the noſe like a pair of tongs or pincers, the cord which goeth round about the ſame being drawn to and fro, the beholders will think the cord goes through your noſe, ve<g ref="char:EOLhyphen"/>ry dangerouſly; the knots at the end of the cord, which do ſtay the ſame from being drawn out of the ſtick, may not be put at the very top, for that muſt be ſtopped up, but half an inch beneath each end, and ſo, (I ſay) when it is pulled, it will ſeem to paſs through the noſe, and then you may take a knife and ſeem to cut the cord aſunder, and pull the bridle from your noſe.</p>
+                  <pb n="69" facs="unknown:028540_0070_0FD93AA738A76330"/>There is another juggling knack which they call the bridle, being made of two el<g ref="char:EOLhyphen"/>der, ſticks, through the hollowneſs thereof is placed a cord, the ſame being put on the noſe like a pair of tongs or pincers, the cord which goeth round about the ſame being drawn to and fro, the beholders will think the cord goes through your noſe, ve<g ref="char:EOLhyphen"/>ry dangerouſly; the knots at the end of the cord, which do ſtay the ſame from being drawn out of the ſtick, may not be put at the very top, for that muſt be ſtopped up, but half an inch beneath each end, and ſo, (I ſay) when it is pulled, it will ſeem to paſs through the noſe, and then you may take a knife and ſeem to cut the cord aſunder, and pull the bridle from your noſe.</p>
             </div>
             <div type="part">
                <head>To thruſt a bodkin into your forehead without hurt.</head>
@@ -943,7 +944,7 @@ get money from maids by ſelling laces by the yard, putting into their mo<gap re
                   <figure/>
                </p>
                <p>Take a bodkin ſo made as the haſt being hollow, the blade thereof may ſlip thereinto as ſoon as you hold the point upward, ſeem to thruſt it into your forehead, and ſo with a little ſpunge in your hand, you may bring out blood or wine, making the beholders think the blood or wine (whereof you may ſay you have drunk very much)
-<pb n="70" facs="tcp:028540_0071_0FD93A7B102D5F68"/>
+<pb n="70" facs="unknown:028540_0071_0FD93A7B102D5F68"/>
 runneth out of your forehead; then after ſhewing ſome countenance of pain and grief, pull away your hand ſuddenly, hold<g ref="char:EOLhyphen"/>ing the point downward, and it will fall ſo out, as it will ſeem never to have been thruſt into the haſt, but immediately thruſt that bodkin into your lap or pocket, and pull out-another plain bodkin like the ſame, ſaying that conceit.</p>
             </div>
             <div type="part">
@@ -952,7 +953,7 @@ runneth out of your forehead; then after ſhewing ſome countenance of pain and 
                <p>Make a bodkin, or a nail, which is all one; the blade thereof being ſundered in the mid<g ref="char:EOLhyphen"/>dle, ſo as the one part be not near to the o<g ref="char:EOLhyphen"/>ther, by almoſt three quarters of an inch, each part being kept aſunder with one ſmall bout or crooked piece of iron, of the fa<g ref="char:EOLhyphen"/>ſhion deſcribed before, then thruſt your tongue betwixt the aforeſaid ſpace, to wit, into the bout left in the bodkin blade, thruſt<g ref="char:EOLhyphen"/>ing the ſaid bout behind your teeth, and bi<g ref="char:EOLhyphen"/>ting the ſame, it ſhall ſeem to ſtick ſo faſt in, and through your tongue, that one can hardly pull it out. Alſo you muſt have ano<g ref="char:EOLhyphen"/>ther bodkin or nail, juſt like unto the falſe one, to ſerve to ſhew to the company.</p>
             </div>
             <div type="part">
-               <pb n="71" facs="tcp:028540_0072_0FD93AAA38F57778"/>
+               <pb n="71" facs="unknown:028540_0072_0FD93AAA38F57778"/>
                <head>How to cut your arm off, a pitiful ſight, with<g ref="char:EOLhyphen"/>out hurt or danger.</head>
                <p>
                   <figure/>
@@ -962,7 +963,7 @@ runneth out of your forehead; then after ſhewing ſome countenance of pain and 
             <div type="part">
                <head>How to kill any fowl, but eſpecially a pullet, and with words to give it life again.</head>
                <p>Take a hen or chicken, and thruſt a nail, or a ſharp pointed knife, through the midſt of the head thereof, the edge towards the bill, ſo as it may ſeem impoſſible for her to eſcape death, then uſe ſome words and pul<g ref="char:EOLhyphen"/>ling out the knife, lay oats before her, and ſhe will eat and live, being nothing at all grieved or hurt with the wound, becauſe the brain lieth ſo far behind in the head, as it is not touched, though you thruſt your knife between the comb and it; and after
-<pb n="72" facs="tcp:028540_0073_0FD93A7CB98E4C78"/>
+<pb n="72" facs="unknown:028540_0073_0FD93A7CB98E4C78"/>
 you have done this, you may convert your ſpeech and actions to the grievous wound<g ref="char:EOLhyphen"/>ing, and preſent recovery of your own ſelf.</p>
             </div>
             <div type="part">
@@ -972,14 +973,14 @@ you have done this, you may convert your ſpeech and actions to the grievous wou
             <div type="part">
                <head>To make the conſtable catch the knave.</head>
                <p>Take a pack of cards, and look out the four knaves, lay one of them privately on
-<pb n="73" facs="tcp:028540_0074_0FD93AABC530C410"/>
+<pb n="73" facs="unknown:028540_0074_0FD93AABC530C410"/>
 the top of the pack, and lay the other three down on the table, ſaying, here you ſee are three knaves got together, about no good you may be ſure; then lay down a king be<g ref="char:EOLhyphen"/>ſide them, ſaying, But here comes the con<g ref="char:EOLhyphen"/>ſtable and catches them together; Oh, (ſays he) have I caught you together? well, the next time I catch you together, I will puniſh you ſeverely for all your rogueries. Oh, but (ſay they) you ſhall not catch us together again in haſte for they conclude to run three ſeveral ways: Well, I will go here, (ſays one) ſo take one of the knaves and put him at the top of the pack: And I will go here, (ſays another) ſo put him at the bottom, Then I will go here, (ſays the other) ſo put him in the middle: nay, (ſays the conſta<g ref="char:EOLhyphen"/>ble) if you run, I will make ſure of one, ſo I will follow the firſt, then take the king and put him at the top, and let any one cut the cards aſunder two or three times, then deal, cut the cards one by one, and you ſhall find three knaves together, and the con<g ref="char:EOLhyphen"/>ſtable with them.</p>
                <p>Note, This feat would be beſt done with a pack of cards that has two knaves of that ſort, of which you put one in the middle.</p>
             </div>
             <div type="part">
                <head>To ſeem to change a card into a king or queen picture.</head>
                <p>To do this, you muſt have the picture in your ſleeve, and by a ſwift ſlight return the
-<pb n="74" facs="tcp:028540_0075_0FD93A7EC14174F8"/>
+<pb n="74" facs="unknown:028540_0075_0FD93A7EC14174F8"/>
 card, and fetch out the picture with a back bending. The manner of doing this is bet<g ref="char:EOLhyphen"/>ter learnt by frequent trials than can be taught by many words; but if you would do this feat, and yet hold your hand ſtraight, and unmoved, then you muſt peel off the ſpots or figures of a card, as thin as you can, and juſt ſtick it on the picture with ſome<g ref="char:EOLhyphen"/>thing that will make it ſtick a little, then having ſhewed the ſpots or figure of the card, you may draw it off, and roll it up with your thumb, into a very narrow com<g ref="char:EOLhyphen"/>paſs, holding it undiſcovered between the inſide of the thumb and the ball of your fore-finger, and ſo produce the picture, to the admiration of the beholders.</p>
             </div>
             <div type="part">
@@ -989,13 +990,13 @@ card, and fetch out the picture with a back bending. The manner of doing this is
             <div type="part">
                <head>Three or four cards being laid down, to tell any one which of thoſe cards he touched.</head>
                <p>This feat is done by confederacy, in this
-<pb n="75" facs="tcp:028540_0076_0FD93AAFA99E4818"/>
+<pb n="75" facs="unknown:028540_0076_0FD93AAFA99E4818"/>
 manner; take and lay down, with their faces upwards, 3 cards, which may be an ace, a four, and a five, then go out of the room, but let your confederate ſtay and ſee which card was touched, then when any one has touched a card, let them call you into the room again, and if he touch the ace, let your confederate ſay, I will lay a penny that you cannot tell which card he touched; and if he touched the four, let him ſay, I will lay a groat, and if he touched the five, let him ſay, I will lay you a crown you can<g ref="char:EOLhyphen"/>not tell which card he touched; ſo by your confederate's diſcourſe, you will know which card he touched, nevertheleſs, you muſt pretend to find him out by ſmelling to them, as though the touch of his finger had left a ſcent on the card.</p>
             </div>
             <div type="part">
                <head>To tell one what card he took notice of.</head>
                <p>Take any number of cards, as 10, 12, and then holding them with their backs toward you, open four or five of the uppermoſt, and as you hold them out to their view, let any one note a card, and tell you, whether it be the firſt, ſecond, or third from the top, but you muſt privately know the whole number of thoſe cards you took; then ſhut up your cards in your hands, and take the reſt of the pack and place upon them; then knock their ends and ſides upon the table; ſo it will ſeem impoſſible to find the noted
-<pb n="76" facs="tcp:028540_0077_0FD93A803816BBF0"/>
+<pb n="76" facs="unknown:028540_0077_0FD93A803816BBF0"/>
 card, yet it may eaſily be done thus: ſub<g ref="char:EOLhyphen"/>tract the number of the cards you held in your hand from 52, the whole number of the cards in the pack, and to the remainder add the number of the noted card; ſo the ſame ſhall be the number of the noted card from the top: therefore take off the cards one by one, ſmelling to them, till you come to the noted card.</p>
             </div>
             <div type="part">
@@ -1005,7 +1006,7 @@ card, yet it may eaſily be done thus: ſub<g ref="char:EOLhyphen"/>tract the nu
                   </gap>le, and deſire any body to tell t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> pieces out on the table, when they have done they will ſay, there is ten. Note, you muſt have in readineſs, privately concealed in your right-hand, five pieces, then you muſt tell the company that you always tell your mo<g ref="char:EOLhyphen"/>ney after every perſon, ſo telling down the money with your left-hand, and taking it up with your right, convey the five pieces to the ten, then aſk if any body is deſirous to hold them, and there will be enough to hold them, and be ſure to hold them faſt; that done, bid them to call for what num<g ref="char:EOLhyphen"/>ber they pleaſe to think on between 10 and 15, and ſo let them call for what number they will, you know they have it in their hand, and when they open their hand, they are ſtruck to admiration. But be ſure not to
-<pb n="77" facs="tcp:028540_0078_0FD93AB408B14010"/>
+<pb n="77" facs="unknown:028540_0078_0FD93AB408B14010"/>
 forget your terms of art to amaze the be<g ref="char:EOLhyphen"/>holders.</p>
             </div>
             <div type="part">
@@ -1014,7 +1015,7 @@ forget your terms of art to amaze the be<g ref="char:EOLhyphen"/>holders.</p>
                      <desc>•</desc>
                   </gap> be by a painter, well coloured cunningly, not only like to your fleſh, but with paps, navel, hair, &amp;c. ſo as the ſame being handſomely truſſed unto you, may ſhew to be your natural belly; then next to your true belly you may put a linen cloth, and thereupon a double plate, which the juggler that killed himſelf for<g ref="char:EOLhyphen"/>got; over and upon the which, you may place the falſe belly; provided always, that betwixt the plate and the falſe belly, you place a gut of blood, which blood muſt be of a calf, or of a ſheep, but in no wiſe of
 <pb n="78"
-                      facs="tcp:028540_0079_0FD93AB5A7DC29A0"
+                      facs="unknown:028540_0079_0FD93AB5A7DC29A0"
                       rendition="simple:additions"/>
 an ox, or cow, for that will be too thick, then thruſt, or cauſe to be thruſt into your breaſt a dagger, ſo far as it may pierce thro' you, which being pulled out a good diſ<g ref="char:EOLhyphen"/>tance from you, eſpecially if you ſtrain your body to ſwell, and thruſt therewith againſt the plate. You muſt ever remember to uſe words, countenance, and poſture, ſuch a grace as may give a grace to the action, and move admiration to the beholders. Prize this as a valuable ſecret.</p>
             </div>
@@ -1024,11 +1025,11 @@ an ox, or cow, for that will be too thick, then thruſt, or cauſe to be thruſt
                   <figure/>
                </p>
                <p>This is a noble action if it be well han<g ref="char:EOLhyphen"/>dled
-<pb n="79" facs="tcp:028540_0080_0FD93AB6F7D7E600"/>
+<pb n="79" facs="unknown:028540_0080_0FD93AB6F7D7E600"/>
 by a ſkilful hand. To ſhew this feat of execution, you muſt cauſe a board, a cloth, and a platter to be purpoſely made, and in each of them to be made holes fit for a body's neck, the board muſt be made of two planks, the longer and broader the bet<g ref="char:EOLhyphen"/>ter, there muſt be left within half a yard of the end of each plank half a hole, ſo as both the planks being thruſt together, there may remain two holes like to the holes in a pair of ſtocks, there muſt be made likewiſe a hole in the cloth, a platter alſo muſt be ſet direct<g ref="char:EOLhyphen"/>ly over or upon one of them, having a hole in the middle thereof, of the like quantity, and alſo a piece cut off the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, ſo big as his neck, through which his head may be conveyed into the middle of the platter, and then ſitting, or kneeling under the board, let the head only remain upon the board, in the frame; then to make the ſight more dreadful, put a little brimſtone into a chaf<g ref="char:EOLhyphen"/>fing-diſh of coals, ſetting it before the head of the boy, who muſt gaſp two or three times ſo as the ſmoke may enter his noſtrils and mouth, which is not unwholeſome, and the head preſently will appear ſtark dead; if the boy ſet his countenance accordingly, and if a little blood be ſprinkled on his face, the ſight will be the ſtranger. This is com<g ref="char:EOLhyphen"/>monly practiſed with a boy inſtructed for that purpoſe, who being familiar and con<g ref="char:EOLhyphen"/>verſant with company, may be known as
-<pb n="80" facs="tcp:028540_0081_0FD93ABB05DC1B58"/>
+<pb n="80" facs="unknown:028540_0081_0FD93ABB05DC1B58"/>
 well by his face, as by his apparel; in the other end of the table, where the like hole is made, another boy of the bigneſs of the known boy muſt be placed having on his uſual apparel, he muſt lean or he upon the board, and muſt put his head under the board through the ſaid hole, ſo as his body ſhall ſeem to lie on the one end of the board, and his head ſhall lie in a platter in the other end. There are other things which might be performed in this action, the more to aſtoniſh the beholders, which becauſe they require long deſcriptions, I omit; as, to put about <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> neck a little dough kneaded with bullocks blood which being cold will ap<g ref="char:EOLhyphen"/>pear like dead fleſh, and being pricked with a ſharp round hollow quill, will bleed, and ſeem very ſtrange, and many rules are to be obſerved herein; as to have the tablecloth ſo long and ſo wide as it may almoſt reach the ground. Note ſuffer not the company to ſtay too long in the place.</p>
@@ -1036,7 +1037,7 @@ well by his face, as by his apparel; in the other end of the table, where the li
             <div type="part">
                <head>To ſeem to turn water into wine.</head>
                <p>Take four beer-glaſſes, rub one in the inſide with a piece of allum, let the ſecond have a drop of vinegar in it the third emp<g ref="char:EOLhyphen"/>ty and then take a mouthful of clean wa<g ref="char:EOLhyphen"/>ter and a clear rag, with ground braſil tied cloſe in it, the bulk may be no bigger than a ſmall nut, which muſt be betwixt your hind teeth, and your cheek, then take of the
-<pb n="81" facs="tcp:028540_0082_0FD93ABDE6F023C0"/>
+<pb n="81" facs="unknown:028540_0082_0FD93ABDE6F023C0"/>
 water out of the glaſs into your mouth, and return it into the glaſs that hath the drop of vinegar in it, which will cauſe it to have the perfect colour of ſack; then rurn it into
 <figure/>
 your mouth again, and chew your rag of braſil, and ſquirt the liquor into the glaſs, and it will have the perfect colour and ſmell of claret; returning the braſil into its former place, take the liquor into your mouth again, and preſently ſquirt it into the glaſs you rubbed with allum, and it will have the perfect colour of mulberry wine.</p>
@@ -1044,7 +1045,7 @@ your mouth again, and chew your rag of braſil, and ſquirt the liquor into the 
             <div type="part">
                <head>To make ſport with an egg.</head>
                <p>If you are drinking in company, or other<g ref="char:EOLhyphen"/>wiſe,
-<pb n="82" facs="tcp:028540_0083_0FD93ABF5F1FA6C0"/>
+<pb n="82" facs="unknown:028540_0083_0FD93ABF5F1FA6C0"/>
 that you are diſpoſed to make ſport, have ready a penny-worth of quick-ſilver, in a quill ſealed at both ends with good hard wax, then cauſe an egg to be roaſted or boiled, and take off a ſmall bit of the ſhell of the narrow end, then thruſt in your quill of quick-ſilver, and lay the egg on the ground; you ſhall have ſport enough, for it will never leave tumbling about as long as there i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> any heat in it.</p>
@@ -1061,7 +1062,7 @@ that you are diſpoſed to make ſport, have ready a penny-worth of quick-ſilve
             <div type="part">
                <head>To fetch a ſhilling out of a handkerchief.</head>
                <p>To do this, you muſt have a ring of wire, ſuch a one as you generally hang your keys upon, but leſs, or a curtain ring will do, ſo as it is no bigger than a ſhilling, then take a handkerchief, and put therein a ſhilling, twiſting the handkerchief round, the form of the ſhilling will appear, then ſay, That you may be certain it is here, I will ſhew it you once more, that you may be ſure it is in here, and taking out the ſhil<g ref="char:EOLhyphen"/>ling, convey the round wire into the hand<g ref="char:EOLhyphen"/>kerchief, which being twiſted, will ſeem to
-<pb n="83" facs="tcp:028540_0084_0FD93AC2C0B34E58"/>
+<pb n="83" facs="unknown:028540_0084_0FD93AC2C0B34E58"/>
 be the ſhilling; the better to deceive, you may wrap the edge of the wire with your ſtick, then open the wire, draw it out, and produce the ſhilling which you have in the palm of your right-hand, ſaying, gentlemen, look you here is the ſhilling, you held the handkerchief very faſt; in the mean time aſk, who gave me this ſhilling? he who you had it of will ſoon anſwer, I, then thank him for it, ſaying, it is more than I have had given me this two days.</p>
             </div>
             <div type="part">
@@ -1070,7 +1071,7 @@ be the ſhilling; the better to deceive, you may wrap the edge of the wire with 
 <q>There you ſee is nothing of wet, either upon the handle, or upon the table</q>;
 ſo ſtretching your empty hand towards your ear, darting the point, ſaying,
 <q>Now ſome body croſs my arm,</q> and ſpeaking ſome powerful words, as Jubio Biſco, then have you a fair opportunity to take this ſpunge into your hand, from behind your ear, and ſtretching forth your hand, ſqueeze it gent<g ref="char:EOLhyphen"/>ly,
-<pb n="84" facs="tcp:028540_0085_0FD93AC3C3A9CE20"/>
+<pb n="84" facs="unknown:028540_0085_0FD93AC3C3A9CE20"/>
 and, after a little, harder, which makes it run the faſter, to the amazement of the company, ſaying, thus could I do till I had drown'd you all<g ref="char:punc">▪</g> ſprinkle a little in their faces, which will cauſe them to ſhut their eyes, whilſt you convey away your ſpunge.</p>
             </div>
             <div type="part">
@@ -1080,7 +1081,7 @@ and, after a little, harder, which makes it run the faſter, to the amazement of
             <div type="part">
                <head>To cut glaſs, a famous invention.</head>
                <p>You muſt have a piece of well dried match-cord, light it that it may have a good coal, then take a beer-bowl glaſs, and hold the match to the edge of the glaſs, have your finger ready wet, and when the glaſs is very hot, clap your finger ſo the hot place,
-<pb n="85" facs="tcp:028540_0086_0FD93AC547A438F8"/>
+<pb n="85" facs="unknown:028540_0086_0FD93AC547A438F8"/>
 and it will ſuddenly crack about a quarter of an inch downward, then keep the coal of the match the like diſtance from the end of the crack, and as it follows, ſo move
 <figure/>
 your hand and cut it ſcrew-faſhion, other<g ref="char:EOLhyphen"/>wiſe it will not hold together, till you have it through the bottom, or like waves; when you have done it, and that is cold, as that it will be, take it by the foot, and turn it downwards, it will ſtretch ſo, that you may put your finger betwixt each cutting, then turn it up again, you may drink a glaſs of beer in it, and not ſpill a drop.</p>
@@ -1088,7 +1089,7 @@ your hand and cut it ſcrew-faſhion, other<g ref="char:EOLhyphen"/>wiſe it wil
             <div type="part">
                <head>How to make two bells come into one hand, hav<g ref="char:EOLhyphen"/>ing put into each hand one.</head>
                <p>This feat muſt be performed with three bells, you muſt put one in your left ſleeve,
-<pb n="86" facs="tcp:028540_0087_0FD93AC6B9351888"/>
+<pb n="86" facs="unknown:028540_0087_0FD93AC6B9351888"/>
 then put one bell into one hand, and ano<g ref="char:EOLhyphen"/>ther into the other hand; they muſt be little mauride <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ells; withdraw your hand, and pri<g ref="char:EOLhyphen"/>vately convey the bell in your left hand into your right hand, then ſtretch both your hand abroad, and bid two men hold your hand faſt, but firſt ſhake your hand and ſay, Do you hear them? the bell that is in your ſleeve will not be known by the rattling, but that it is in your hands, then ſay, he now that is the greateſt whore-maſter of you both ſhall have none <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1103,21 +1104,21 @@ then put one bell into one hand, and ano<g ref="char:EOLhyphen"/>ther into the o
                      <desc>•</desc>
                   </gap> a ſheet of paper called Trouble-wit.</head>
                <p>This is called Trouble-Wit, or Puzzle-Wit, which you pleaſe to call it, and indeed it is a very fine invention, by folding a ſheet of paper as that, by art, you may change it into many ſeveral forms or faſhions, take a ſheet of marble Paper, fold it down the middle of the ſheet long ways, when you have ſo done, turn down the edge of each fold outwards, the breadth of a ſingle pen<g ref="char:EOLhyphen"/>ny; then meaſure it as it is ſo folded into three equal parts with compaſſes, which makes ſix diviſions in the ſheet, let each third part be turned outward, and the other in courſe will fall right; then pinch it a quarter of an inch deep, in the manner as
-<pb n="87" facs="tcp:028540_0088_0FD93ACEF5807CC8"/>
+<pb n="87" facs="unknown:028540_0088_0FD93ACEF5807CC8"/>
 you pinch paper lanthorns, that is, in plaits like a <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ff, ſo that when the paper lies pin<g ref="char:EOLhyphen"/>ched in its form, it is in the faſhion repre<g ref="char:EOLhyphen"/>ſented
 <figure/>
-                  <pb n="88" facs="tcp:028540_0089_0FD93ACFCE4DB288"/>
+                  <pb n="88" facs="unknown:028540_0089_0FD93ACFCE4DB288"/>
                   <figure/>
 by the figure A; when cloſed toge<g ref="char:EOLhyphen"/>ther like the figure B; uncloſe it again, and ſhuffle it with each hand, it reſembles the ſhuffling of a pack of cards: cloſe it, and take each corner inward with your fore-finger and thumb, it reſembles a roſe for a lady's
-<pb n="89" facs="tcp:028540_0090_0FD93AD14CC40930"/>
+<pb n="89" facs="unknown:028540_0090_0FD93AD14CC40930"/>
 ſhoe, as is ſeen in the figure C, ſtretch it forth into the ſame form, and it reſembles the cover for an Italian couch, as is ſhewed by the letter D; let go your fore-finger, at the lower end, and it reſembles a wicket to a gate, or a portal to a nobleman's door, as is ſhewed by the letter E; cloſe it again, and pinch it at the bottom, ſpreading it on the top, and it is the faſhion of a ſcreen. For as it is ſhewed by the letter F. Pinch it half way, and open the top, and it is in the faſhion of a ſhoe-maker's cutting knife, which is ſhewn by the letter G; holding of it in that form, and with the thumb of your left-hand, turn out the next fold, and it is in form of a curry-comb, as it is ſhew<g ref="char:EOLhyphen"/>ed by the letter H. So that thoſe who are reſolved to learn to comb, do this feat, in<g ref="char:EOLhyphen"/>nocent, and diverting enough, both in city city and country.</p>
                <p>And I would have ſhewn more of the cuts, but that here is enough for the inge<g ref="char:EOLhyphen"/>nious, ſince they have the manner of fold<g ref="char:EOLhyphen"/>ing the paper, which is a great help to do it; the next faſhion is a buttrice, ſuch as fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
                   <g ref="char:EOLhyphen"/>riers uſe to pair their horſes heels withal; in the faſhion of a lawyer's deſk; in the fa<g ref="char:EOLhyphen"/>ſhion of a bridge made of wood to carry a troop of horſe over a river; in the faſhion of a dark lanthorn; in the faſhion of a bough<g ref="char:EOLhyphen"/>pot; in the faſhion of a lanthorn with a roſe at each end: in the faſhion of a minced-pye,
-<pb n="90" facs="tcp:028540_0091_0FD93AD2E3257F60"/>
+<pb n="90" facs="unknown:028540_0091_0FD93AD2E3257F60"/>
 without any meat in it; in the faſhion of a cardinal's cap; in the faſhion of a coſter-monger's cap; in the faſhion of a ſugar diſh; and many more knacks to be played with it.</p>
             </div>
             <div type="part">
@@ -1125,20 +1126,20 @@ without any meat in it; in the faſhion of a cardinal's cap; in the faſhion of 
                <p>When you are in company, and ſhewing your tricks, and that you have done as many as you can, or think to do at this time, then ſay, to conclude, I will ſhew you the beſt and clevereſt trick that ever I did ſhew in all my life; not only ſhew you; but learn it you, that you may do it yourſelf another time. The trick is this: how to ſet a glaſs of bran<g ref="char:EOLhyphen"/>dy on the other ſide of the table, and to make it come jumping and never touch it.</p>
                <p>Firſt, fill a glaſs of brandy, and put it on the farther end of the table, and have in readineſs the crown of your hat blacked, then ſay to the company, gentlemen, what<g ref="char:EOLhyphen"/>ever you ſee or hear, I deſire you to ſay no<g ref="char:EOLhyphen"/>thing, for this is done by the black art; now I deſire every one of you to change hats one with another, and do as I do, and ſay as I ſay; now you muſt all turn the crowns of your hats towards your faces, and ſo ſpeak as I do, ſaying, John of Baſket, John of Baſ<g ref="char:EOLhyphen"/>ket! then rub your face, and he that hath your blacked hat, will laugh becauſe the glaſs doth not move, and the others will laugh at his black face; and ſo you will make ſport
 <pb n="91"
-                      facs="tcp:028540_0092_0FD93AD9480B5380"
+                      facs="unknown:028540_0092_0FD93AD9480B5380"
                       rendition="simple:additions"/>
 enough, then you muſt ſpeak two or three bold words to the glaſs, as thus: glaſs of brandy, glaſs of brandy, come to me, if you will not, I will fetch you, and ſo take it up with your hand and drink it, then ſeem to fling the glaſs up againſt the cieling, and break it, and it will ſeem very ſtrange. I have done this often.</p>
             </div>
             <div type="part">
                <head>How to command ſeven half-pence through a table.</head>
                <p>This feat is one of the greateſt that the jugglers have done, and is inferior to none. To do this, you muſt go to ſome tinman, or any body that knows how to make your holes room enough for a die to go in and out, and then let them clap a good half-pen<g ref="char:EOLhyphen"/>ny upon them all, and ſo make them faſt, and nobody can tell them from real ones; then you muſt get a cap to cover your half-pence, a cap and a die for the company to fling to amuſe them; when you are thus provided with half-pence, a cap, and a die, the manner of performance is thus: deſire any body in the company to lend you ſeven half-pence, telling them that you will ſoon return them their own again; then ſay, gen<g ref="char:EOLhyphen"/>tlemen, this is made juſt fit for your mo<g ref="char:EOLhyphen"/>ney; then clapping your cap on, deſire ſome<g ref="char:EOLhyphen"/>body in the company to fling that die to ſee what they can fling, and in ſo doing, take off the cap and convey your falſe money into
-<pb n="92" facs="tcp:028540_0093_0FD93ADAC661E558"/>
+<pb n="92" facs="unknown:028540_0093_0FD93ADAC661E558"/>
 the cap, ſo that the company may not ſee you put it in, then with your cap cover the die, ſo with your right-hand take up the true money, and put it into the left under the table, ſaying, Vada, begone, I command the die to be gone, and the money to come in the place; ſo take up the cap, and the die is gone, and the money is come, covering the money again with the cap, ſo taking the true money in your right-hand, and knock<g ref="char:EOLhyphen"/>ing under the table, making a jingling as though the money was coming through the table, then flinging them on the table, ſay, there is the money, and with your right-hand take off the cap, ſaying, and there is the die; ſo convey the falſe money into your lap, and there is the cap likewiſe. This is an ingenious feat if well handled, here make the figure of a die, and the faſhion of ſeven half-pence, and a cap to cover them.</p>
             </div>
             <div type="part">
                <head>How to turn a box of bird-ſeed into a living bird.</head>
                <p>You muſt have a box made on purpoſe, with a falſe lid; for to deſcribe it to you in words, is pretty hard, but you may have them ready made at my houſe. This box muſt be turned nearly like unto the egg-boxes, ſo that they cannot find out where it opens, and you muſt have a falſe lid to clap on and off, and on that lid glew ſome bird ſeed; ſo before you ſhew the box, to the
-<pb n="93" facs="tcp:028540_0094_0FD93ADE447F5E00"/>
+<pb n="93" facs="unknown:028540_0094_0FD93ADE447F5E00"/>
 company, put a bird in the box, and then the falſe lid, then ſhew the box to the company, and it will ſeem to be full of ſeed, then ſay to the company,
 <q>gentlemen you ſee my box is full of ſeed;</q> which no<g ref="char:EOLhyphen"/>body can tell to the contrary, then put your true lid on, ſaying, Gentlemen, I will command all the ſeed out of my box, and command a living bird to appear; ſo taking off the covers the bird will appear.
 You may be furniſhed with all manner of inſtru<g ref="char:EOLhyphen"/>ments, cups, Dutch puddings, egg-boxes, globe-boxes, melting-boxes, ſixpenny-boxes, bird-boxes, and bells and buſhels.</p>
@@ -1146,26 +1147,26 @@ You may be furniſhed with all manner of inſtru<g ref="char:EOLhyphen"/>ments, 
             <div type="part">
                <head>How to command a ſixpence out of a box.</head>
                <p>You muſt go and get a box turned of box-wood or any other wood which you fancy; you muſt have it turned with two lids, one muſt be a falſe one, and there put a counter, ſo that it may rattle; and you muſt have a ſmall pegg, or button, to your box, to hinder the counter from jingling, and at the bottom of the box, which you have neatly turned, there you muſt have a half notch made in your box, juſt fit for a ſixpence to come out. So to perform this feat, you muſt deſire any body to lend you a ſixpence, and to mark it with what they pleaſe, then let them put it into the box themſelves, afterwards then put the cover on, then by ſhaking the box, the ſixpence
-<pb n="94" facs="tcp:028540_0095_0FD93A34139C08E8"/>
+<pb n="94" facs="unknown:028540_0095_0FD93A34139C08E8"/>
 will come into your hand; then you may diſpoſe of it as you know how when you are ſhewing your feats. This feat is not in<g ref="char:EOLhyphen"/>ferior to any that is ſhewn with boxes.</p>
                <p>Note, This box you may have of me rea<g ref="char:EOLhyphen"/>dy made in the new faſhion.</p>
             </div>
             <div type="part">
                <head>How to call for any card in the pack.</head>
                <p>Take the cards and ſhuffle them, or let any body elſe ſhuffle them, or lay down the whole pack on the table before you, with their faces downwards, then drawing off the upper card ſay, Here I call for the card of good luck; and when you have ſeen what that card is, which you muſt do as privately as you can, and be ſure not to let the company ſee him, then ſay, Here I call for—, naming your card of good luck, and ſo take the next uppermoſt card, and then having ſeen him, ſay, Here I call for the—, naming the card you took up laſt, and ſo take off the next uppermoſt card, and thus ſtill calling for the card you laſt took up, you may call for as many as you pleaſe; or, if you will, you may thus go round the pack, and, in the mean time, cauſe one to write down the names of the cards, in the ſame order as you call for them, which they may do in brief, thus by writ<g ref="char:EOLhyphen"/>ing a figure for the number of the ſpots, as 1 for the ace, 2, 3, 4, 5, 6, and ſo to ten; and then kn. for the knave, q. for queen,
-<pb n="95" facs="tcp:028540_0096_0FD93AE2D1BBA470"/>
+<pb n="95" facs="unknown:028540_0096_0FD93AE2D1BBA470"/>
 and kg. for king, adding a letter for the ſuits viz. c. for clubs. ſ. for ſpades, h. for hearts, and d. for diamonds, e. g. is three or four cards; ſuppoſe the three firſt cards, called for, were, the ace of clubs, the tray of ſpades, and the five of diamonds, they be ſet down thus, 1 C— 3 S—5 D, and ſo of any other: having thus gone round, with as many as you pleaſe, take them from the table, ſaying, Look now in your paper, ſee which card I call for firſt, which ſecond, and which third, &amp;c. and whilſt he is look<g ref="char:EOLhyphen"/>ing, do you ſlip the card of good luck under the bottom of the pack, then holding the cards with their faces upwards, take them off one by one, and they will come in the ſame order as you called them, only the laſt card will not be ſet down in the paper, and it muſt be pretended he was the card of good luck.</p>
             </div>
             <div type="part">
                <head>Another way to call for a card.</head>
                <p>After having privately ſeen the up<g ref="char:EOLhyphen"/>permoſt card, lay the cards down in three or four heaps, but not above, then be<g ref="char:EOLhyphen"/>gin at the heap fartheſt off from you, that has the known card on the top, and ſay, Here I call for the—, naming the known card; then go to the next heap, ſay<g ref="char:EOLhyphen"/>ing, Here I call for the—, naming the card you took up laſt; proceed in the ſame manner, viz. ſtill naming the card you laſt
-<pb n="96" facs="tcp:028540_0097_0FD93AE4BA124988"/>
+<pb n="96" facs="unknown:028540_0097_0FD93AE4BA124988"/>
 took up, till you come to the laſt heap, ſo the card you call for firſt, will come laſt; but here note, you muſt keep the cards cloſe that they may not be ſeen till you have done calling, and then you muſt lay them down, one by one, in the ſame order as you called them.</p>
             </div>
             <div type="part">
                <head>To tell one what card any one thinketh on.</head>
                <p>Take 21 cards, and begin to lay them down, three in a row, with their faces up<g ref="char:EOLhyphen"/>wards, then begin again at the left-hand, and lay one card upon the firſt, and ſo on the right hand, and then begin at the left-hand again and ſo go on to the right, do this till you have laid out the 21 cards in three heaps, but as you are laying them out, bid any one think on a card, and when you have laid them all out, aſk him in which heap his card is in, then lay the card in the middle betwixt the other two; then lay them all out again into three heaps, as before, and as you lay them out, bid him take notice where his noted card goes; when you have laid them all out, aſk him in what heap it is now? put that heap in the middle as before, and lay out the cards a third time, bidding him take notice where his noted card goes, and put that heap in the middle as before; then taking the cards with their backs towards you, take off the uppermoſt card, ſmelling to him, reckon him 1, then take off another,
-<pb n="97" facs="tcp:028540_0098_0FD93AEA48403E60"/>
+<pb n="97" facs="unknown:028540_0098_0FD93AEA48403E60"/>
 and ſmelling him, reckon him 2, this do till you come to the eleventh card, for that will always be the noted card, after the third time of laying them out, though you ſhould lay in this manner ever ſo often; you muſt never lay out the cards leſs than three times, but as often above as you pleaſe. This trick may be done by any odd number of cards that may be divided by three.</p>
             </div>
             <div type="part">
@@ -1175,11 +1176,11 @@ and ſmelling him, reckon him 2, this do till you come to the eleventh card, for
             <div type="part">
                <head>How to make a card jump out of an egg.</head>
                <p>To do this wonderful feat, you muſt have two ſticks made, both of one bigneſs, and
-<pb n="98" facs="tcp:028540_0099_0FD93AEBF57CB020"/>
+<pb n="98" facs="unknown:028540_0099_0FD93AEBF57CB020"/>
 both of a likeneſs, ſo that no perſon can know one from the other; one of the ſticks muſt be made ſo artificially as to conceal a card in the middle, as thus: you muſt have one of
 <figure/>
 your ſticks turned hollow quite through, and then an artificial ſpring to throw the card in the egg, at your pleaſure; the operation is thus: take and peel any card in the pack, which you pleaſe, and ſo roll it up, and then put it into your falſe ſtick, and there let it be till you have occaſion to make uſe of it; then take a pack of cards, and let any body draw a card, but be ſure let it be the ſame ſort of card that you have in the ſtick alrea<g ref="char:EOLhyphen"/>dy; then let them put it in the pack again, and when you are ſhuffling them, let that card fall into your lap, which the party drew, ſo calling for ſome eggs, deſire that party that drew the card, or any perſon elſe in the company, to chooſe any one of theſe eggs, and when they have choſen one, aſk them if there be any thing in it, and they will anſwer no; then take the egg in your left-hand, and your falſe ſtick in your right, and ſo break the egg with your ſtick, and
-<pb n="99" facs="tcp:028540_0100_0FD93AEF90DE2938"/>
+<pb n="99" facs="unknown:028540_0100_0FD93AEF90DE2938"/>
 then let the ſpring go, and the card will ap<g ref="char:EOLhyphen"/>pear in the egg, very amazing to the be<g ref="char:EOLhyphen"/>holders; then conceal that ſtick and produce the true one upon the table.</p>
             </div>
             <div type="part">
@@ -1188,9 +1189,9 @@ then let the ſpring go, and the card will ap<g ref="char:EOLhyphen"/>pear in th
                <p>Take a veſſel A. B. which has two bot<g ref="char:EOLhyphen"/>toms, this is cloſe on all ſides like a drum; through the middle of it run a long pipe, C. D. ſodered to the lower bottom at F, with its two ends open, C. D. the firſt of which C. muſt not quite touch the uppermoſt bot<g ref="char:EOLhyphen"/>tom, but leave paſſage for the water; when one has a mind to fill the veſſel A. B. which is done by turning up the veſſel A. B. with its pipe C. D. ſo that the hole D. will then be the uppermoſt, and pouring in the water at D. this done, ſtop up the pipe C. D. with another, and a very little ſmaller pipe E. D. that can juſt enter it, and is fixed in the bot<g ref="char:EOLhyphen"/>tom of a caſe or ciſtern that is a little longer than one of the two bottoms of the veſſel A. B. the two pipes C. D. ought to have at an equal height, two appertures or holes I. I. and the ſmalleſt D. E. ought to be movable within the greater, C. D. that ſo you m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> turn the ſmaller with its caſe G. H. when you will, fill the two holes I. I. meet farther the veſſel A. B. ought to have ſeveral little holes in its lower bottom, as K. L. for giv<g ref="char:EOLhyphen"/>ing
-<pb n="100" facs="tcp:028540_0101_0FD93AF242CA2838"/>
+<pb n="100" facs="unknown:028540_0101_0FD93AF242CA2838"/>
 egreſs to the water, and the caſe or re<g ref="char:EOLhyphen"/>ceptacle G. H. ought likewiſe to have ſmal<g ref="char:EOLhyphen"/>ler vent, M. N. for the water to run out. Now the veſſel A. B. being filled with wa<g ref="char:EOLhyphen"/>ter as we directed but now, and the pipe C. D. being ſtopt by the pipe D. E. which is ſuppoſed ſo thin, that it could juſt fill it with<g ref="char:EOLhyphen"/>out any neceſſity of the extremity E. it reaching to the end C. provided the other two ends D. D. do but fit: is it done, I ſay, turning the veſſel again to its firſt poſition, in which it will ſtand as in the figure, the caſe G. H. being its baſe, and being turned together with its pipe E. till the two vents I. I. meet and make but one orafice, for then the water contained in the veſſel A. B. will run out at the vents K. L. as long as the air can paſs through the apperture I. to ſupply the room of the water that runs A. B. into the caſe G. H. but when the water in the receptacle G. H. riſes above the vent I. which will infallibly happen, ſince more wa<g ref="char:EOLhyphen"/>ter runs at the vents K. L. than at M. N. the former being ſuppoſed to be larger than the latter, the air not finding acceſs at I. the water in the veſſel A. B. will give over run<g ref="char:EOLhyphen"/>ning through the vents K. L. but the water in the receptacle G. H. will continue to run at the vents M. N. ſo that this water will grow lower by degrees, till the vent I is un<g ref="char:EOLhyphen"/>covered again, and then the air having acceſs at I. will renew the ſlux of the water thro'
-<pb n="101" facs="tcp:028540_0102_0FD93AF7486B70F8"/>
+<pb n="101" facs="unknown:028540_0102_0FD93AF7486B70F8"/>
 K. L. which in a ſmall time will raiſe the water in the caſe G. H. ſo as to recover the vent I. again, upon which the ſtream A. B. will ſtop, and ſo on alternately, till there is no water in the veſſel A. B.</p>
                <p>This is called the fountain of command, becauſe it runs at a word, when the water is near the renewal of its flux, thro' the vents K. L. which is eaſily known; for when the vent I. begins to get clear of water in G. A. the air ſtruggling for acceſs at thevent makes a little noiſe, and ſo gives notice that the fountain is about to run. This is a merry de<g ref="char:EOLhyphen"/>vice.</p>
             </div>
@@ -1203,16 +1204,16 @@ K. L. which in a ſmall time will raiſe the water in the caſe G. H. ſo as to 
                      <desc>•</desc>
                   </gap> a piece of tape into four parts, and make it whole again with words.</head>
                <p>Take a piece of narrow white tape, about two or three yards long, firſt preſent it to view to any that may deſire it; then tie both the ends of it together, and take one ſide of it in one hand, and the other in the other hand, ſo that the knot may be about the midſt of one ſide, and uſing ſome circum<g ref="char:EOLhyphen"/>ſtantial
-<pb n="102" facs="tcp:028540_0103_0FD93AF9C6F70138"/>
+<pb n="102" facs="unknown:028540_0103_0FD93AF9C6F70138"/>
 words to beguile your ſpectators, turn one hand about towards yourſelf, and the other from you, ſo ſhall you twiſt the tape once; then clap the ends together, and
 <figure/>
 then if you ſlip your fore-finger and thumb of each hand between the tape, almoſt as one would hold a ſkane of thread to be wound, this will make one fold or twiſt, as appears where A ſignifieth the twiſt or fold;
-<pb n="103" facs="tcp:028540_0104_0FD93AFB3A1A67A8"/>
+<pb n="103" facs="unknown:028540_0104_0FD93AFB3A1A67A8"/>
 B the knot; then in like manner make a ſecond fold, about the line D. C. as you may ſee by the ſecond figure, where B. ſig<g ref="char:EOLhyphen"/>nifieth the knot, C. the firſt fold, A. the ſecond fold: hold then the fore finger and thumb of your left hand upon the ſecond twiſt and upon the knot alſo, and the fore-finger and thumb of your right hand upon the firſt fold C. and deſire ſome one of your ſpectators to cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> all aſunder with a ſharp knife, at the croſs line E. D. when it is cut, hold ſtill your left hand, and let all your ends fall, that you hold in your right hand, for there will be a ſhew of eight ends, four above and four below, and ſo the ſtrings will be thought to be cut into four parts, as may be ſeen by the third figure; then ga<g ref="char:EOLhyphen"/>ther up the ends that you let fall into your left hand, and deliver two of the ends, (ſeeming to take them at random) unto two ſeveral perſons, binding them to hold them faſt, ſtill keeping your left hand fingers up<g ref="char:EOLhyphen"/>on the twiſts or folds; then with your right and left hands ſeem to tumble all the ends together that you had in your left-hand, twiſt out the ſlips or pieces, which are three, as you may ſee at A. and B. in the third figure, twiſt them all I ſay, into a little ball, and conceal it between ſome of your fin<g ref="char:EOLhyphen"/>gers of your left hand, and crumble there<g ref="char:EOLhyphen"/>on another confuſed heap, and after ſome words ſaid, with your right-hand deliver
 <pb n="104"
-                      facs="tcp:028540_0105_0FD93AFE0CCF53D0"
+                      facs="unknown:028540_0105_0FD93AFE0CCF53D0"
                       rendition="simple:additions"/>
 this confuſed heap unto any one of the com<g ref="char:EOLhyphen"/>pany, biding him hold it faſt, Hulla, Paſſa, then bid them look on it, who while they are greedily looking after the event, you with eaſe convey the ball or roll of ends into your pocket; ſo it will be thought that you have made it whole by virtue of your words. An excellent trick if it be graceful<g ref="char:EOLhyphen"/>ly handled; and a trick that coſt me trou<g ref="char:EOLhyphen"/>ble to find.</p>
             </div>
@@ -1225,14 +1226,14 @@ this confuſed heap unto any one of the com<g ref="char:EOLhyphen"/>pany, biding
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nt
-<pb n="105" facs="tcp:028540_0106_0FD93AFFC98B8EC8"/>
+<pb n="105" facs="unknown:028540_0106_0FD93AFFC98B8EC8"/>
 order, divers ſmall holes, about the big<g ref="char:EOLhyphen"/>neſs of ſmall peaſe, then open the one ſide of this bottom, ſet in a piece of cryſtal-glaſs, and faſten it in the hoop cloſe to the bottom, then take a quantity of quick-ſilver, and put put ſo much into the hoop as will cover the bottom; then let into the hoop another piece of chryſtal-glaſs fitted thereto and cement the ſides, that the quick-ſilver may not run out, and it is done; the figure whereof I have before ſet. A. preſenteth the one ſide that giveth the form of one face to the be<g ref="char:EOLhyphen"/>holders? B the other ſide that multiplieth the beholder's face ſo oft as there are holes in the middle bottom. The uſe whereof I ſhall not inſiſt upon, ſince he that is verſed in the former feats will better conceive of himſelf to uſe it, than my words can either direct or aſſiſt him.</p>
             </div>
             <div type="part">
                <head>To make the fulminating thundering powder.</head>
                <p>Take three parts of ſalt-petre, two parts of ſalt of tarter, and one part of ſulpher, pounded and mixed together, heat in a ſpoon ſixty grains of this compoſition, and it will fly away with a fearful noiſe, like thunder, as loud as a cannon, breaking through the ſpoon and every thing underneath it, for it exerts itſelf downwards, contrary to the na<g ref="char:EOLhyphen"/>ture of gun-powder.</p>
                <p>I have here ſet down, KIND READER,
-<pb n="106" facs="tcp:028540_0107_0FD93B055F845818"/>
+<pb n="106" facs="unknown:028540_0107_0FD93B055F845818"/>
 not only all uſual feats, that either myſelf have ſeen or heard of, but divers others alſo, which I am ſure were never in print, nor as yet performed by any I could ever hear of except myſelf, and all to give thee thy full content; and note this from me, if you right<g ref="char:EOLhyphen"/>ly underſtand this, there is not a trick that any juggler in the world can ſhew thee, but thou ſhalt be able to conceive after what manner it is performed.</p>
             </div>
             <trailer>FINIS.</trailer>
